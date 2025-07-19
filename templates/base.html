@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Ultimate Frisbee Rankings</title>
+  <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+</head>
+<body class="bg-gray-50 text-gray-800 min-h-screen flex flex-col">
+
+  <!-- Header -->
+  <header class="bg-blue-600 text-white p-6 shadow-md">
+    <div class="max-w-5xl mx-auto flex justify-between items-center">
+      <h1 class="text-3xl font-bold">Ultimate Frisbee Rankings</h1>
+      <nav>
+        <ul class="flex gap-6 text-lg">
+          <li><a href="/" class="hover:underline">Home</a></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+
+  {% block content%}
+  {%endblock%}
+  <!-- Footer -->
+  <footer class="bg-gray-200 text-center p-4 text-sm text-gray-600">
+    © ts pmo
+  </footer>
+
+</body>
+</html>

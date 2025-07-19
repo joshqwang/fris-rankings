@@ -1,0 +1,29 @@
+{% extends "base.html" %}
+{% block content %}
+  <!-- Main Content -->
+  <main class="max-w-5xl mx-auto p-6">
+    <h2 class="text-2xl font-semibold mb-4">Top Ranked Teams (2025)</h2>
+    <div class="overflow-x-auto">
+      <table class="w-full table-auto bg-white rounded shadow-sm">
+        <thead class="bg-blue-100 text-left">
+          <tr>
+            <th class="px-4 py-2">Rank</th>
+            <th class="px-4 py-2">College</th>
+            <th class="px-4 py-2">Team</th>
+            <th class="px-4 py-2">Rating</th>
+          </tr>
+        </thead>
+        <tbody>
+        {%for team in teams%}
+          <tr class="border-t">
+            <td class="px-4 py-2">{{loop.index}}</td>
+            <td class="px-4 py-2">{{team.college}}</td>
+            <td class="px-4 py-2">{{team.name}}</td>
+            <td class="px-4 py-2">{{team.rating | round(2)}}</td>
+          </tr>
+         {%endfor%}
+        </tbody>
+      </table>
+    </div>
+  </main>
+{%endblock%}
