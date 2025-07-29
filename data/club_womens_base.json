@@ -1,0 +1,1010 @@
+[
+    {
+        "location": "Detroit",
+        "name": "2025 Outrage Scrimmage",
+        "gender": "womens",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=ATPXMq5s1t%2bOgGafNtHNdiwonrfnI73nxPgiv2tkYgE%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Toronto",
+        "name": "6ixers",
+        "gender": "womens",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=HSCJ6Qs%2f7u9QROq86oslNGRRZOkfF9Xn13K2H6Itat8%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Richmond",
+        "name": "Ace",
+        "gender": "womens",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=AIgUah6I0IytiD1APtk18OYc0jsw%2fiFks8NrjHfcRKo%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Washington",
+        "name": "Agency",
+        "gender": "womens",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=TzyHzTFxBXqNibCBOsQwy86%2fyjtMu8AGHCF32Evz48s%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "New York",
+        "name": "BENT",
+        "gender": "womens",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=e73jL6u1EOjH19Mu%2bxDKyO%2fuR1BUfF1bBpG2RC%2byg9w%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Bologna",
+        "name": "BFD Shout",
+        "gender": "womens",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=bMfi1nIcA5pz59ut9mktUib%2bgOGVh%2f9zHhgizYefgVg%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Boston",
+        "name": "Boston Siege Tryouts",
+        "gender": "womens",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=1QejwrsWlVNSpEPaQOVORU6SE4nK2xfGje0yHwsRn2A%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Brooklyn",
+        "name": "Brooklyn Book Club",
+        "gender": "womens",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=txzqBG9%2bdbKYrXa3TH1meGj4mLAn7nIhzMNl%2fPYGkcg%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Boston",
+        "name": "Brute Squad",
+        "gender": "womens",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=iyVT8Mg2uDyOfxfSKk0zOOqtqiUdqf9yn%2f%2fVhIPy9Ss%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Tampa",
+        "name": "Calypso",
+        "gender": "womens",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=EZLNxNrl6Y8Dt%2bFZqyHuYWK2dp7HLa78VBB2QPnqkqY%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Stevens Point",
+        "name": "Central Wisconsin Phoenix",
+        "gender": "womens",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=B%2b876Fc7odSNJOf4J9xYxhJpIJfpxfhAw5osPzpQMIk%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Charleston",
+        "name": "CHAOS",
+        "gender": "womens",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=HhTV6fMIBq445hUV4D9xPBqj4YnHsj1Paye8NsH1tSg%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Boulder",
+        "name": "Colorado Kelp",
+        "gender": "womens",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=CZkr9jfVJPQUEQpoxDhluAUXPiA9eKbpinRenNSE2I0%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Denver",
+        "name": "Colorado Small Batch",
+        "gender": "womens",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=75o9cFjBwybJV3Y%2bRQcln4hgY%2f54CyXGdwkLUHveY64%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Minneapolis",
+        "name": "Compact Disc",
+        "gender": "womens",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=5OafGhPX7O0Xz77smbNvb4LLOUFBSH4dW9PyhA5lGdM%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Colorado Springs",
+        "name": "COSMOS",
+        "gender": "womens",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=bHCKonbgUgKJiKcm1Q0CUw9pionAxJyvsCr%2bjepXMiE%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Houston",
+        "name": "Crush City",
+        "gender": "womens",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=RrWcDtwEKQz4EdTEfNxaR%2fXbHiDd2yzjPdW%2b%2ftlDDJI%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Utah",
+        "name": "Dark Sky",
+        "gender": "womens",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=e3I7Fh3S%2fkc1S57UCn2l27gdkftBB6DpZm3p6XJ6lqM%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Dallas",
+        "name": "Dimes",
+        "gender": "womens",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=Cd5RMChvqjoONM%2bIKjmzhITivLa1pY0ycLJNjG4D9c4%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Chicago",
+        "name": "Dish",
+        "gender": "womens",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=YdYa5575Mi8IyO8GUKsEidS6Zu%2fEmpxdhVWGhmmxC78%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Washington",
+        "name": "Dissent",
+        "gender": "womens",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=5hZJH5knYBcE2NYvmCcc0LLfhsMIx1rMuZnXdH%2f%2fbJM%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Seattle",
+        "name": "Dogfish",
+        "gender": "womens",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=q1F0derlwrrsMvy59diQhHUpNsRd%2bYTzP7ZdRKxPJhg%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Vancouver",
+        "name": "Drift",
+        "gender": "womens",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=9wO39R1WPBNKbumX1p2U7%2f5O%2fqRNcHWBR2aLU%2famPSg%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Bay Area",
+        "name": "FAB",
+        "gender": "womens",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=H662232dtEyMgS4yzNOtCecuk9IRR7fdzf9kWAEvY20%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Madison",
+        "name": "Feisty Heisties",
+        "gender": "womens",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=rFiT7fMG35YqfKMtRKJ2bZi02Uc%2blOq8NGLlcuxFhlo%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Miami",
+        "name": "Fiasco",
+        "gender": "womens",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=ZYmMkEI2wpFdFJ%2bddV8md2AN6ydo88RS0tmWItK%2b%2bMk%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Austin",
+        "name": "Firewheel",
+        "gender": "womens",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=qy7d5zOmLiCadtvgVnNFoFEi2xVqWjXMfPpSycBNZqA%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Philadelphia",
+        "name": "Flight",
+        "gender": "womens",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=Izh6vLulHcibqFbQhzLJixsW8Mj1VBfqNQ7t4X2WWOg%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "San Diego",
+        "name": "Flipside",
+        "gender": "womens",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=l7mfldj83YFw3IklHXF%2b%2bV4ZOEG0MnTqUtWB9%2bnw6FA%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Philadelphia",
+        "name": "Flock 2025 Season",
+        "gender": "womens",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=pZi4fD5cdIh4G5M92CZt6%2brKCPxA86YhA75LSm44iPs%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Portland",
+        "name": "Frolic",
+        "gender": "womens",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=m%2fa3hP8ybLJoeJsvjaC%2b4i3BfxeS1uUQCtzYyji9M5g%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "San Francisco",
+        "name": "Fury",
+        "gender": "womens",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=hhCZG2zjCjqIpPLRhVlrXkZl4LNe2YDb5RnlrDVj7VA%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Tucson",
+        "name": "Gila Monster",
+        "gender": "womens",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=fRTfn67oz2tDCoDCrHDx0X7aQOTaKdE%2f38gY%2fe%2boQqM%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Washington",
+        "name": "Grit",
+        "gender": "womens",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=YNuof%2fOTXpL%2bXcT1UclgGPoiFks6aGw9GC62Paz%2f9cs%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Phoenix",
+        "name": "Haboob",
+        "gender": "womens",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=lqsdM%2b6AtC7aI1y9GYYZ3FN51ywYCLt0FfoUhmhBwNM%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Tulsa",
+        "name": "Hayride",
+        "gender": "womens",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=0TKa0mLuKlxxzEz9z6N7sQGEZP%2fePSUiyB%2bcXXKz4ic%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Madison",
+        "name": "Heist",
+        "gender": "womens",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=yRP6F2Tp45XzIC21C0behsHoxxMZIo3L7w1TG80C6XQ%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Pittsburgh",
+        "name": "Incline",
+        "gender": "womens",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=W%2fVxLAWG2O0JUbLazYILM68uYKIv6Aq6zvFdgg1brks%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Indianapolis",
+        "name": "Indy Rogue",
+        "gender": "womens",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=1liuYSnmbYqzIlYKNlAHTaTl9AJJTYHer7gpGm5bkvM%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Qu\u00e9bec",
+        "name": "Iris",
+        "gender": "womens",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=6i5TJjiF88S5rq1MmKfbQXIXqFoeZ7eYamMEYJMneg0%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Charlotte and Asheville",
+        "name": "Juice Box",
+        "gender": "womens",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=nfh0tMrBpDCJJw6dZiALkOtknpHZaKKpyXQuLPhaODE%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Long Beach",
+        "name": "Just Add Water",
+        "gender": "womens",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=e87pRhXuhvZPjjPYLhR%2bvqqDwdoqZ56vdjf%2fB6YcodE%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Cleveland",
+        "name": "Lake Erie Walleye",
+        "gender": "womens",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=cLNKVE2ikP6%2fbLeTpgPSafzAKZF%2beJn2dDjL9zizqtE%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Chicago",
+        "name": "Lakeshore Drive",
+        "gender": "womens",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=xv6IVpR3WKFB6i%2f7wvkdc8sm4iSf31PZ%2b6k%2fjKA4Hhc%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Oakland",
+        "name": "LOL",
+        "gender": "womens",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=88Y2%2fii169esf7GgI0kDKdFln5UF5JIxquUMCRXO6U0%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Marietta",
+        "name": "Magma",
+        "gender": "womens",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=yzYKZ5fHrjx%2bnx0XAtDi9DkduMIcCFggYuXvyZ%2bCih4%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Milwaukee",
+        "name": "Medusa",
+        "gender": "womens",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=byRRlHl%2biM1paNsFW4%2bmU8XNIQk0R34O5JOq1YBY7CI%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Denver/Boulder",
+        "name": "Molly Brown",
+        "gender": "womens",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=zLJk%2fft4PeK%2fAHYCSuIHWNsLoAw1mxPriV4xKNlhaWI%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Chicago",
+        "name": "Nemesis",
+        "gender": "womens",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=EP6J07%2buANYa0seMmdXhUFphjShJMg5NrSA6xkmhegU%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Bay Area",
+        "name": "Nightlock",
+        "gender": "womens",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=8TJ4d0Mmuj8dMry9lLS7j3ovuBdYG83blWVZVXW3l3Y%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Ann Arbor",
+        "name": "Outrage",
+        "gender": "womens",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=FqqhMUyvma19AjlfWtEJfq6SC3dNJbaCysaaqVTRoIQ%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Atlanta",
+        "name": "Ozone",
+        "gender": "womens",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=utMaurz2e%2f9fnPhOKTzURQahN6Sh15sORQte%2f%2brNs1Q%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Atlanta",
+        "name": "Ozone Tryouts 2025",
+        "gender": "womens",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=Y8PBL%2fqGdWzdQGdCXhDvPlxrQZxqWLQ4M6ISyKRvawY%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Pittsburgh",
+        "name": "Parcha",
+        "gender": "womens",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=3asgrckYh2TUIP%2fDhFlawnFxq6%2blmxbyQv5G6q%2f0vXY%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Raleigh",
+        "name": "Phoenix",
+        "gender": "womens",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=PDiHN5JgjOVx08Hd7DDQN%2bTHK0qKTgx5%2bHWUP%2f3r3qQ%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Washington, DC",
+        "name": "Pickup Lines",
+        "gender": "womens",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=dGeMhEKpsD%2fRUbITvf66z8xVIwYgbeBDkcigj47F53s%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "New Brunswick",
+        "name": "Pine Baroness",
+        "gender": "womens",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=iLvyJjFeWzXINEUefdTTuK141HUUG73xymtdIUfcPkw%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "New York City",
+        "name": "Pizza Rat",
+        "gender": "womens",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=3%2f5TXGyec3wPL3JBta2301%2fIfakebHwP9MDYF%2fYtvOM%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Northampton",
+        "name": "PLOW",
+        "gender": "womens",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=%2bsn6lobaKvUEDiRN9Os2cMWK2GUyZOwQwklxak%2bCfyg%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Seattle",
+        "name": "PLU Alum",
+        "gender": "womens",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=AIgru8XEyGPYZ%2fWcA8MwubVtZQVzhz5BaY%2fjiawWPgM%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Minneapolis",
+        "name": "Pop",
+        "gender": "womens",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=WPrGJb5TGqL31IXbP9mj54ij07vd7DaYcdZteLMjswA%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Portland",
+        "name": "Portland Rain Check",
+        "gender": "womens",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=7KGKSWl4LhEbo1RAhUxLVjPUK2vrz0nuJI6z86CVcAc%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Los Angeles",
+        "name": "Rampage",
+        "gender": "womens",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=CtL2%2brGYpPu9PQ4uCZ38ffxJ1aAOJTJdTHl%2bu%2bK0b0w%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Portland",
+        "name": "Reed/Portland State (Reed/Portland State combo)",
+        "gender": "womens",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=uTiAhNZ6aUVTCTixSrCyYxxKX9Ml%2bOVpYzzXFrgbJks%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "New York",
+        "name": "Remember When",
+        "gender": "womens",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=3ypFsQPrX7Wd46TIXVZ%2fChaE2DMLK8kMbtw4rAip5IU%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "St. Paul",
+        "name": "River Monsters",
+        "gender": "womens",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=fcAUeFhZcZkTPgw1h0f6LaTDzBYMlnL5tBwvXL1kbEQ%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Jacksonville ",
+        "name": "Roseate Spoonbill ",
+        "gender": "womens",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=sPyzeikUmNxLodg1jSMDy9DSFHsduM7QEqKdk3D9L1o%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Sacramento",
+        "name": "Sac Lunch",
+        "gender": "womens",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=6vqg%2b9EXvb4HEHHQLR70cY8s7XzzhO9I5k7aOxHVzD0%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Sacramento",
+        "name": "Sacramento Delta",
+        "gender": "womens",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=luCyNR7zUtKUnQN9UlfomU%2bFHJQAtYYZZXkTzJk9jUQ%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "San Antonio",
+        "name": "San Antonio Problems",
+        "gender": "womens",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=QJwUkcqa08E%2fxlmufaCy3oEpWgTpCXaNgzkro1ddnT4%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Washington",
+        "name": "Scandal",
+        "gender": "womens",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=mSmPSiGRK3iDAkpkhSRkDrHoDbJYKdCmOLCCoEUJ6qQ%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Portland",
+        "name": "Schwa",
+        "gender": "womens",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=06r45COLFLprh7uHq4YesV4kFDJWWNxttQJgC7QZC1I%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Seattle",
+        "name": "Seattle END ",
+        "gender": "womens",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=JcLlfn5TB7mvzSKtveX4bLW6Vypq%2bzQlZnE9E0Jm2fA%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Seattle",
+        "name": "Seattle Riot",
+        "gender": "womens",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=wH8SgnB4UXn6vtSnM4cTx8GYkfx5N7N3OLAWqm5n75g%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Seattle",
+        "name": "Seattle Soul",
+        "gender": "womens",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=kSfrVO6BBGvvbFkSK9Ix5sY0%2bnUVQ%2bCZw1Vs%2bPBOA6s%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Boise",
+        "name": "Seven Devils",
+        "gender": "womens",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=CPhwPWeMb3qyvfYv0bwoOg1uzOObre1r3fK4sX3sSUM%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Seattle",
+        "name": "Seven Hills Gx",
+        "gender": "womens",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=9hAxIp9Sqae7BbTp0d7QQSkV%2bYYpKyndgtsggtFXENM%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Durham",
+        "name": "Shiver",
+        "gender": "womens",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=XfQm8RwIkO3Y3IOqTKbG5jrDbq68kTj%2b3l%2fz4OJyCX0%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Apex",
+        "name": "Shiver Tryouts",
+        "gender": "womens",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=YL5a%2fIPfTWKOwju5FX1948feILhmvfiMGBAe%2fgmYhIM%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Boston",
+        "name": "Siege",
+        "gender": "womens",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=Blu0v8lr8Fzbz6Ua15x8bjTzsQsQkvikVnqPGYzNcss%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Columbus",
+        "name": "Solstice",
+        "gender": "womens",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=NQAm1wrry7JTyY5PEYYzAq%2bohT604xx0qQLeU1SBvmM%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Philadelphia",
+        "name": "Splurge",
+        "gender": "womens",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=EOw8tiPzRgHp%2bXuL%2fU2dY9cJE9CaRROCProcenACecY%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Northampton",
+        "name": "Starling",
+        "gender": "womens",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=NUAJ%2fNFkm%2bG4agPz4UxjQdRiz36WqOH%2fXThPuxoGo8M%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Northampton",
+        "name": "Starling Tryouts",
+        "gender": "womens",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=7o3J%2bQ3mlftw6VPQ9u2U6l3vn4HIfWje%2biiYG5T7lwU%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Ottawa",
+        "name": "Stella",
+        "gender": "womens",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=asVcwxihSD2zcLr1LD6wPV0z8ShcJna8Iwd%2b4DNCN84%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "St. Louis",
+        "name": "Stellar",
+        "gender": "womens",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=a7Taguk5rKjU%2fUfsAklp0IpdgZeXRLMSWeCQ91y81ow%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Cincinnati",
+        "name": "Sureshot",
+        "gender": "womens",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=FnLkqyRXogSAbSfqlGXLm7XJJh1vKIRu6ZDoWUWzgek%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Salt Lake City",
+        "name": "Swell",
+        "gender": "womens",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=5jgHJSumDv46Fy4bjE4%2blbWs6RetijDoerBCXYtJyN0%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Albany",
+        "name": "Syrup!",
+        "gender": "womens",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=pqgknU4PZifvtlsbUOz9Z%2bmR2LDJ6mWJc2UwqlhR9DM%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Gainesville",
+        "name": "Tabby Rosa",
+        "gender": "womens",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=OmGVsQHo2ZL8A%2b0fGKGgeQX%2f%2bLmE5%2bPew907iw4e8bU%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Bay Area",
+        "name": "Tempo",
+        "gender": "womens",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=YB5Q6yIz9fT51xEYmvzy6ISP8tXKZfD4B0AKJZ2RuN8%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Vancouver",
+        "name": "Traffic",
+        "gender": "womens",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=d7KBWfVpYXh8bBpLSlo4Z73ufcRGceJEaUPlWidw48A%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Fort Collins",
+        "name": "Trainwreck",
+        "gender": "womens",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=VPPwYgAd5%2f%2fKz2RzV8KwASUYLCJ9raf6%2bIURjBe6au8%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Dallas",
+        "name": "TWISTED",
+        "gender": "womens",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=Cy98rDiyh7rOIiQ%2f0NO1CqWJv3QwlZty3tYa2b6%2bCjo%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Bay Area",
+        "name": "Ultraviolet",
+        "gender": "womens",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=6lbtWjKMklddUUR1rVpmyKcD%2b8R%2f0pvArrMxmStlsr8%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Seattle",
+        "name": "Underground",
+        "gender": "womens",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=23TPqVdL15wcEztAMTN7ESrixuN%2flu5EP8BofNC5jhA%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Austin",
+        "name": "Vengeance",
+        "gender": "womens",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=3Vr06APW24dWFSluA%2fsMSv6r54mVJ4zhoK0s0ADBec4%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Cambridge",
+        "name": "Versa",
+        "gender": "womens",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=mnjbkmIj4O3U%2bnrC1oxzoLv6v%2bo78E4XWwYkZUe3Cos%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Cambridge",
+        "name": "Vice",
+        "gender": "womens",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=U06KPHu8DWwlvGOEAuF6u%2fKYBjlVAY3d4V36jOiElBQ%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Richmond",
+        "name": "Virginia Rebellion",
+        "gender": "womens",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=JGsU308vawuQRCVmpy3N6HEEK4PeRswjnBAgGaWyDOE%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Sunnyvale",
+        "name": "Void Cat Rewind",
+        "gender": "womens",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=mzguNOqx76TPqCJcXjJrIwOwyupsWTcqpZ2TnqTPfWo%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Baltimore",
+        "name": "Wave",
+        "gender": "womens",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=Co7PLtPMZVhA%2f3oycyI2G15ltaKp6nNc%2b3jGpfnociY%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Kansas City",
+        "name": "Wicked",
+        "gender": "womens",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=%2fmCQPCrzob1FpyQ%2fWZOAoEn6Na6hdumX0ywhbBePppc%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "San Diego",
+        "name": "Wildfire",
+        "gender": "womens",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=WvbB%2bJGBVI%2biOU%2bYo8SHKZxjbRNWVMPpTUpzF7Jiy18%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Chicago",
+        "name": "WMP Goalti Tourney 2025-Varsity",
+        "gender": "womens",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=P%2bU4p0cboQtb51WxtUyUthegZr602Cj0ezOUcsomr88%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Philadelphia ",
+        "name": "Zephyr",
+        "gender": "womens",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=OczTq5JGRlqRxF5xbeSh5h6dhSFAAqrL78zlrVjQvtw%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Sunnyvale",
+        "name": "Void Cat Rewind",
+        "gender": "womens",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=mzguNOqx76TPqCJcXjJrIwOwyupsWTcqpZ2TnqTPfWo%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Baltimore",
+        "name": "Wave",
+        "gender": "womens",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=Co7PLtPMZVhA%2f3oycyI2G15ltaKp6nNc%2b3jGpfnociY%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Kansas City",
+        "name": "Wicked",
+        "gender": "womens",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=%2fmCQPCrzob1FpyQ%2fWZOAoEn6Na6hdumX0ywhbBePppc%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "San Diego",
+        "name": "Wildfire",
+        "gender": "womens",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=WvbB%2bJGBVI%2biOU%2bYo8SHKZxjbRNWVMPpTUpzF7Jiy18%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Chicago",
+        "name": "WMP Goalti Tourney 2025-Varsity",
+        "gender": "womens",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=P%2bU4p0cboQtb51WxtUyUthegZr602Cj0ezOUcsomr88%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Philadelphia ",
+        "name": "Zephyr",
+        "gender": "womens",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=OczTq5JGRlqRxF5xbeSh5h6dhSFAAqrL78zlrVjQvtw%3d",
+        "rating": 1000,
+        "games": []
+    }
+]

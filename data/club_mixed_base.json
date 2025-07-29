@@ -1,0 +1,2576 @@
+[
+    {
+        "location": "Nashville",
+        "name": "'Shine",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=GsMW8VzrHLPRTR9pVkWjEfzSYzviXwolTe7SdGpLs2s%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Colorado Springs",
+        "name": "2025 WG Tryouts",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=yBPP1lnOB50sBVNqKObanSCJwkbqYG1rZ2Kj4rbP8p8%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Colorado Springs",
+        "name": "2025 World Games National Team",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=I9Kz60CyGIUEAl1xOm%2bsd%2bF4IoBkAUISFdaCjaSCox8%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Burlington",
+        "name": "Aged Cheddar",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=dP1A6OP94R33I5fFDvqh6Yh80LyqLOZSxttCzz3FBes%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "San Mateo",
+        "name": "Air Throwmads",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=KMPP9G66awfTUZ0dAiHjZLaULpfLBeyW9cYYEmzT6cU%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Boulder",
+        "name": "All Jeeps, All Night. -A",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=BjCYrweNwXBPauZyX8WrzHUVR5nGH69Keb8ysHry6Qc%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Baton Rouge",
+        "name": "Amber",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=FeKTD4u5AFjLUVfdpWtL3X2bDkenRInNiBDA96FPIio%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "San Francisco",
+        "name": "American Barbecue",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=fiNrpssfnFtsp5nIVMS6LKYbMGrsWslzR3nGtUNbo58%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Philadelphia",
+        "name": "AMP",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=H2OvHwcgldP6AFyuuYkdVuEu4M5aP4RH7%2bMGtjNbjBo%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Austin",
+        "name": "Anarchy",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=%2bp%2fy4g95mlpd850EwXqs0FPkDhYrOAGIwdTf6Yp1lcY%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Washington",
+        "name": "Ant Madness",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=tOuXJ%2fS%2fx6bg6uB5Lz1ff8%2f4k2rOQpnErzYZ%2b%2fKiH1A%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Baltimore",
+        "name": "Anthem",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=N2rgbSDV9HRuPPJtckKJ78zsWlskAkFWyYryv%2fpOfn0%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Iowa City",
+        "name": "Arms Race",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=zDyQVSEkcvtbiYU1n6IOC3mUgn6ycOT52W%2fO9ppcnXU%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Asheville",
+        "name": "Asheville Parliament",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=iSpEYTdad9wcuByiQxGm9Bp3a0dvCd5fCbpGWE06QpE%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Austin",
+        "name": "Austin Disco Club",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=iNTNQ3IB%2fK5gpsYiDLXeP0JrAd7erCUGLuntyoA7T8g%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Hoboken",
+        "name": "Axolotls",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=px9qSdqaNl35M2nTc%2f4bDk2S0M9WvtLFin%2fDeEe8W6U%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "The Sea",
+        "name": "Beached Whales",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=uXW8EMjLRYYgi%2b6iOkwjGc3mjkInq26Mk4z9RyBVf%2bA%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "albany",
+        "name": "Bench",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=vizb4tzNrfQev%2bzhLTdSrbjqpFsvh9igQOxocIRmknc%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Albany",
+        "name": "Bench Club Tryouts",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=Riz8PWXlLH1JrymDtGj9rt3FVWnLTOXr3oYeT%2fa8I84%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Canaan",
+        "name": "Berkshire Ultimate Pickup",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=5g8GWG7hLsR9wHXm5iFwILcAcTUNuBMGA0utZB7k30g%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Seattle",
+        "name": "BFG",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=9Rd5FvHs6ndiKVFGYYTTt1fVbBOwCu8CaexaHUd8o08%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Burlington",
+        "name": "Big Rig",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=EE8rH5JTYnoZp8nPa%2f3vgwClz%2bWpeu94O8af%2bjGEZAw%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Minneapolis",
+        "name": "Bird",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=ry36WFmusGnKiEkSc8OcV3gCg5u51%2fFWdXqbPC8G0jk%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "San Diego",
+        "name": "Birds of Paradise",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=ZBiXDSe%2bXEdFWXU%2fCNlL3YNHD8Vefok1OWeap%2bXrew0%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Santa Monica",
+        "name": "Boiling Point",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=8gzFJiWkZGkUEvHrU8sYWid0c%2bAA2YCIn8W%2bEQwriN4%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Madison",
+        "name": "Boomtown Pandas",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=%2b9ApVof8zcHYgO9L%2fI6lBOpvF0mIeELD3mO%2b9pLRLR0%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Seattle",
+        "name": "BOP",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=ahGy13Lb4HYJTRU9NNHeyklYD4ZOoDBaM4lXbIUqPio%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Bozeman",
+        "name": "Bozos",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=vCbh%2bMY%2boIDG5kMc1YWEOjpzoRhoq1NH%2bSfmz3B366c%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Hampton",
+        "name": "Brackish",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=EPrjUhb06d86Ibq8uvgeDA6HCF0AObRxUgB%2b5izVqCc%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "New York",
+        "name": "Brooklyn Hive",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=AZzixdMkjFigcXF7mwQcDG6bn41QKSisEIirnWdpICk%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Durham",
+        "name": "Brunch Club",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=%2fmJQOGDgZ7caIGnuAMEQCPHtuYwV54AHgKDQh8UX6wY%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Buffalo",
+        "name": "Buffalo Brain Freeze",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=uTVnjW9wc6J3C3zgAoZR%2fsvCaGhxNw2toiVfDErPh5E%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Buffalo",
+        "name": "Buffalo Lake Effect",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=ZqG7bJpsgJZ1BGIaHsGn2pjy5U8VeJpW9zP2wV%2b9CXY%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Seattle",
+        "name": "Bullet Train",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=i7JofhIgRXUCan%2brKQMlW0KKITh1YD2AFgCpfvbxtw0%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Birmingham",
+        "name": "BUMS",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=lWJr0EgaamMV%2fcsoyJHqzmwqoceYUs%2fyvQQpSoOTpo4%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Bay Area",
+        "name": "BW Ultimate",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=DTYYHM4QEmqxjd0ud3D6O2%2boDR%2fDZFH%2f4O3yAldBhLM%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Bay Area",
+        "name": "BW Ultimate Tryouts",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=OoiSBhemiaOhaRnoSqULTqY%2f4U86AN35LpNVZHhbuhM%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "San Diego",
+        "name": "California Burrito",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=%2f4z6zFKs8aRzAUOfaiOHtVFk39SF9MBz6WuPxoZa8PQ%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Montgomery",
+        "name": "Capital City Croissants",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=NVFfyK7MaQuU%2bZ8wFawHXZ2CP4zLJXbaLuAs6m5MUdc%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Winston-Salem",
+        "name": "Carolina Reapers",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=qHETS1eUD%2bku4dlBke0Znycd%2buzXzbpwLFrIoH7ufm4%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Charlotte",
+        "name": "Catalyst",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=75c3EPkox3Jq6Za2cuWQHIJsb0%2fHBQ%2fnLL%2fH8u%2fJvKg%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Buena Vista",
+        "name": "Chaffeed Peaks",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=kkCALg4UMIT4H%2bTmbZcsDVY7SkBR5H%2fAyAa843UqjeY%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Chicago",
+        "name": "Chicago Parlay",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=HL8cMVfIAXCssmTS4WG%2boP4PCoAeJCcIJaoQZzkbEC8%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Portland",
+        "name": "Choco Ghost House",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=YWbiGL1npzWP4P1%2bSJ11GgVJ%2bkQkjx47GRWDSuSAC94%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "San Francisco",
+        "name": "Classy",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=%2fQuiUgmhiSA2D%2bcp7iSAeqF4xmCItAOXEq%2b0Idtmtwo%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Philadelphia",
+        "name": "ColorBomb",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=UjewKo7usDhZiZYzHixjbcNL6RCl6hNmTewbJAIrNzc%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Columbus",
+        "name": "Columbus Chaos",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=%2b4txiyoI2%2fz%2bjk%2b265ioYjiINUD25PwxTAE5JRXKzJI%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Columbus",
+        "name": "Columbus Cohesion",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=BT7RxTSnGnF%2b6QA2f6yByHRjedEMTqRJXSfjIJj4BgQ%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Rochester",
+        "name": "Compost Plates",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=f9h0JNKNaI6kXxg9TOT8ZES6cfD4vy1vik7rEL5gVGc%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Savannah",
+        "name": "Conspiracy",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=nybnzc%2b2sYLE2s33F76NVSiNtnfP7w5XHRqT17ORO8k%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "St. Louis",
+        "name": "ConSTLation",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=Hw0iLQ1j8PzAwe3IHF3wwKGlzKi%2bezMbH8Oeqb3JyD4%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Fort Collins",
+        "name": "Cowpoke",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=J%2blV6xi091U0t5ZLXKv9J0ZhgRsIKASoj9vBDdJvfOM%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Oberlin",
+        "name": "Cowti",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=njYOrJTE2khcoBd6Ph41c%2fKZf32dKAA9fSMwKDG%2bfx4%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Kitchener-Waterloo-Guelph",
+        "name": "Crash",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=f%2fZ%2b3kRUG6HfmsltfVxAuTazAP9OeSuW%2b1fKngdS4Hs%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Pittsburgh",
+        "name": "Crucible",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=2afYUfX7pNuNjOtGLyktJcMZ7ffgD8fvENhslxGwpuk%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Philadelphia",
+        "name": "Cupcakes",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=b2957e4pXy0t%2b%2b%2ftiUyctLu9se%2fHPSt1Ji%2faJsryQTk%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Reno",
+        "name": "Cutthroat",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=rD3A8cmQxRBrV0urG9gclxdvdsAPmYfUG74lJ5ltutw%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Mansfield",
+        "name": "Darkwing",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=%2f39W1tgRaykMxv557A8oHLWYnMONCwFkMHIQTywiyg8%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Wilmington",
+        "name": "Delabear",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=PqpcUjhSDKzPxBYcvAOaoPkBkc4AKtzNFthGs3%2f%2fufY%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Madison",
+        "name": "Dinosaur Fancy",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=MruO7lRVwAJ%2fokERlrKLFWA%2bmL9ShKwmNOlqmOPJ0Jw%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "CASSELBERRY",
+        "name": "DISCBENDERS-A",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=67OrSPHv8HykurEeoemmvLk1rQCWBijwf6hOQbU8yaQ%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Washington",
+        "name": "DISCoordination",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=Clsv8nXKj%2bkQsk5lu%2bR0MNhEY9dwkWyHJWZtzc76p7M%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Washington",
+        "name": "District Cocktails",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=wf7v8iLppuOJX3qMSqQfX7kb4IXJp3jM6bjXsBPLcJE%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "New York",
+        "name": "Domino Effect",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=dEdozV4wj0clpNnd7uOB58K3lttGaOrLNj0e8Nq5bbU%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Bay Area",
+        "name": "Donuts",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=%2bDMMkGJAAfiDNmRRJtPul42HyEjMkmFwd60HtUFqNH0%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Berkeley",
+        "name": "DR",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=L%2fgvDrsbHXDW3TdndNgYwYXyH3amsaVdNuNNjNmxujU%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Minneapolis",
+        "name": "Drag'n Thrust",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=FGjJa%2bvWCpW2IvjybxBkPRXFxf0VCITGEOAjN98fHsQ%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Corvallis",
+        "name": "Drip",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=p1tl3Ol%2b81j2rk8HdLMbJlyZY%2b0oIV0Wj7okHdenGXI%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Madison",
+        "name": "ECHO",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=tN3Ql6Yv0Xume92KYGpdb%2f1fpfzQU9pDnE7FVhTSCs8%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Pittsburgh",
+        "name": "Eclipse",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=6k1qzxEBPS%2b6Aema3C58hkY8uB0%2bnRMWJT3znbUqRXI%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Chicago",
+        "name": "ELevate",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=%2bM2tgkVbQFmwoLKswOgxdUPrrIViiUcJlCTE19W%2bcno%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Colorado Springs",
+        "name": "Emily Test",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=3Qpaoi%2buQ3LSlrPqYtgrWNVGpnoznCfkUmiVyXmBiM8%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Costa Mesa",
+        "name": "Erosion",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=JJ9eN%2b6OSSv0OJMZg0KlcPjEMhXata30dlpzX02s3e0%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Vancouver",
+        "name": "Fable",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=pAU14PvubrUBt0mDuaaN8Z2lbngtc7KeXObGNlZOI4I%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Los Angeles",
+        "name": "Family Style",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=ygtDZn7xxww0%2favW%2fPGVcWC5orb51f3D7De6r5kGhRU%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Harrisburg",
+        "name": "Farm Show",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=il88juFzqOEJ9nhCLqzt0rqQzPwyGKuac7RC19U2P1s%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Omaha",
+        "name": "Fatal Attraction",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=hSQT4Uueil9ECNuwk95udYUu7Ea1VaMxLzrL1FdENmI%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Pensacola",
+        "name": "Field Crabs",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=tMs2BLDI4TUFsFlvX9I54PXuS1SA2s0wE%2b2Tuo9W6PI%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Washington",
+        "name": "Fireball",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=cSZSN%2bbDfnrVrAa76XXVALjK8xGxRLOcU9WXC1z0piM%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "San Francisco",
+        "name": "Firefly",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=D5RXXY94hfHw0Dfhkx7gkKPsVO6uiAm29%2bG53S%2bfJEA%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Long Island",
+        "name": "FLI",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=%2bRfVVIqS5YyrzbtVvtCBFbGib6YdRtnQRRkoyi4cpz4%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Denver",
+        "name": "Flight Club",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=pcsSjQcrnAjxFDHPB2QlNJO6b%2bFPb1iCU6H1%2b%2fnfOxY%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Denver",
+        "name": "Flight Club Tryouts",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=Ww6afZYv5dkDPPDkulu9QAZtfiPNn8VdJSYgTuCHhxk%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Northeast",
+        "name": "Flux",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=p6Nq1HKCfF5LmHEvlmNMHDlyHha3nwJaeoNab160G%2fk%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Wilmington",
+        "name": "FlyTrap",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=IOW5dAhhljgyK3ori%2bmSP8c23Go0kEHE3GQlFE%2bkCs0%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Greenfield",
+        "name": "Four Rivers Coaches",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=CXI%2fJL09BUui%2bKfcUmcMuWK1p2OJf5Br7FiyoKwIx9s%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Milwaukee",
+        "name": "Frostbite",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=eoOxaKLEHnLm1wrfT%2bl%2fSzK2hOYWQ6qgmhgf52aEv8M%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Newburgh",
+        "name": "Funk",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=iN6%2bvTpk3by4VhUMjCwfKXZGySCxZA%2fVmVFySdrJ1n0%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Seattle",
+        "name": "Garbage",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=F9fecCEfPbR7lccz27SWj2D%2f4pK0uVln9Kag1ze%2fZao%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "ROCHESTER",
+        "name": "Garbage Pla(C)e",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=WmKHXbjoshCHX4RnUUDxrMjAER8vSmr5xnWcPjCh8bI%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Rochester",
+        "name": "Garbage Plates",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=j8aDyGUEHj6Ovf8ICfhEPLqNXy1NkOV2XkHBGvyNE5g%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Minneapolis",
+        "name": "Gene Parmesan",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=N%2bwPyJw5OTBeNfFThpBEmCp26wigyTQKZWqzDqEyKuw%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "St. Louis",
+        "name": "Good Company",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=U7mZEmoorFpQqBt5fwRTWPbTZwiwxcmE4AQ%2frulq3zc%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Houston",
+        "name": "Goosebumps",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=4l231MjpeWjrXtAGLIiZHwgEQshpMyJS28iJZp%2feaVg%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Brooklyn",
+        "name": "Grand Army",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=PQy7LmzV92%2fJNYwvOtQR%2b9ttsRuYqzOq98zRz3tKTRY%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Falcon Heights",
+        "name": "Great Minnesota Get Together",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=SeRsLoFamw2swSBivwuXxdzmbSORkMCAnPGjTGkuRLI%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Denver",
+        "name": "Green Chiles",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=WOOufTp0dDw2bq8zvZSHCYmvEtVYYEiDtJsdsdyopmg%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Greenville ",
+        "name": "Greenville Hypnotic",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=wbf374ZOzfDfrWBk7BN9Sd4UyUjEX6JxxmIQ9ReTbUI%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Tacoma",
+        "name": "Grit City",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=mP2fi4QLOpQdebD0hUxOgA6TVCANiYh1Qxz6lDTCX8k%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Hartford",
+        "name": "Hartford Current",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=EObth58DUZRTfLrpw7S2FZcHcJ%2fMgpi97vIaGIMCu9U%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Richland ",
+        "name": "Heat Wave",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=VXCd1p3uaclEA0wbBctTn9zF4HQuIHIoHZuRP%2fX%2bgQE%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Brooklyn",
+        "name": "Heat Wave",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=NoEsdE5%2fp4HVxpdVHgyDP3iGtClqZGlmgBUivzAM2v0%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Columbia",
+        "name": "Heavy Flow",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=DoIAd9spUOzfBN%2fuvrLUCu7ePKD1uCiGmjhtiYghEJI%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Baltimore MD",
+        "name": "Heavy Flow 2025 Tryouts",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=B606hftCXgf5eU00UNumqI%2fKj3JmoLoEWOSxfnRNVHc%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Portland",
+        "name": "Hive",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=mlDnywc%2bWPIVA%2btmz4cSB6FYF0U93CTrUDp8LOoVi5k%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Providence",
+        "name": "Hogs Co.",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=UGleb%2bVp5OAILgqW9Hgr3ldTzHep9RmcWB8C9SKJZJg%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Knoxville",
+        "name": "Holler!",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=T7rHl0GKmzz6xdIUzqd%2fHU%2f2Xu5wGjuhQSDjYEGpt3w%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Washington DC",
+        "name": "HVAC",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=6%2bTG63n0IHL2RVo2ofae5FBjnYerOe7ZUCCaaFknzeU%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Ann Arbor",
+        "name": "Hybrid",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=M%2bmQ6Zb452AgUyS17WYGfTI7u0zcGCICR0Am4Bp9wfw%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Bend",
+        "name": "Igneous Ultimate",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=XQF0YJ5OU%2fAKcKOBcXGH2BpqvJP7GUSGZ%2bZ1dUOnATw%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Wichita",
+        "name": "Impact",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=I6I189ODx9B%2ffQKMGrzNERTx%2fzOgNBVSJc8DlLapr64%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Clarksville",
+        "name": "Indiana Pterodactyl Attack (IPA)",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=TqbmB6bK0hAK0rNhJDrlLFmfEI5c6Kq952jduxx3Vzg%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Chicago",
+        "name": "Jabba",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=VnF8ldsBZbxlauN5tFz9sDK2xp3HluvrSzg2iIk9cdw%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Philadelphia",
+        "name": "JAWN",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=l1mqirLrrrla8n94Ch5a8oRvexmH1n8QyUjtG2qx7GU%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Princeton",
+        "name": "Jughandle",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=GJrLQhYyr60G9Sl8q4amo8lhRC8uSfO3Kx1%2bsgEqjhI%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Lawrence",
+        "name": "Jughandle Scrim Series",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=tnxfhR96VykcMvjDhz1hdsi8uWXgrrMYULZEbqOmJj8%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Washington",
+        "name": "Jumbo Slice ",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=ft%2fM8IHwqqZDRavo7jW5ZFEfKE3hmXbISCsxRt%2bK1yQ%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Tucson",
+        "name": "Karma",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=Gydq4zZULfuj6L4G0Ka7yL9EQUKLiEaRW6aWILa2QeY%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "San Diego",
+        "name": "Kraken",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=8U6LGq596PsznLi3PPn%2bBxm6EcdjUkWvjR75YgBtBP8%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Salt Lake City",
+        "name": "Lady Justice",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=YSAFMF0ROl0jfgZZC34D54fqs%2bYWvtRHdAuC0aK2LdQ%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Duluth",
+        "name": "Lake Superior Disc",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=DbiKcCiRiRGNdFjbgsnZzxh0pyIXIkl%2fwXdYIhyFU6Y%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Cambridge",
+        "name": "Lampshade",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=lpsWI46dECa5cP7H0QEE1qoC3EdNrESlh34eSMPpRRc%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Phoenix",
+        "name": "Lawless",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=%2ftFJRLfBnNmAuQF0xvyE0SEvAqBYV5uhVxzP1y9ysbc%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Boston",
+        "name": "League of Shadows",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=k6YxRYLXqZMMkvxXLc%2fGA3MJVBCHKtVGEUXCGjPpTgY%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Lynchburg",
+        "name": "Legion ",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=ESXi3Vy%2bqjSF7ioMqkAwjUPtrODXb%2f%2bYeoi7Q042aP4%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Minneapolis",
+        "name": "Lemonade Ultimate",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=1Q8qhAYn3DqNpTZTg24Str0Fii0gp8nF%2fBLMtTFOz9A%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Lexington",
+        "name": "Lightning",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=LT8KuR9v9bZnhZoeWLG4UrIIbAxH1Vqjnj4sLdhkVNM%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Seattle",
+        "name": "Lights Out",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=Y8BV9vmfHlZjHqzU%2bOKdJ2YD%2brNnjSQQXqtkUnEjtzA%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "St. Paul",
+        "name": "Limbo",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=i9e7rsUdvj%2fcAPya9PB3JvzupWPYgob44pZHR6n3RgY%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "South Bay",
+        "name": "LIT Ultimate",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=70xCAflc%2f1U%2fiYStG6xn%2fi1rwK%2bZwIBSVc1%2fAvCpvKc%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Fairfax",
+        "name": "LORD",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=n6ABQ1SLeMhk99KLnn8soO3rwuiy74yP6K4wXPenGVg%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Los Angeles",
+        "name": "Lotus",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=DqEyyqj7bP%2brnRI32Dfuir2hTiRb8YVSiQDsRE1rlX4%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Denver",
+        "name": "Love Tractor",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=PHDWrhkjeP44YS%2fwZ%2fQqiNmUHd9Em%2fZB%2fuiLnj2cpqs%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Colorado Springs",
+        "name": "Low Oxygen",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=YvgsBPE3GtCVkpxmhlACNCQ4ymXoP3wnNAXKqzrAYb0%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Madison",
+        "name": "Mad Udderburn",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=AXnEj%2bSWo5GksXZT6y9WorddFqp8FwpUdSqO65vz8Qs%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Madison",
+        "name": "Madison United Mixed Ultimate",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=9GYbf9m4kKQsYKYpdBUNTcjh8fLd2Fgl2qkiN5UadHQ%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Durham",
+        "name": "Magnanimouse",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=j7LcE4I0wNkZSrK1NU3Y08wHlSYTI%2bbBQBX9UbUDd3A%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Bogota",
+        "name": "Makawua",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=7kdZIgZtlyEvHA52LW8H2zYJXnEZ0GrlsJXu9NLuk8A%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Raleigh",
+        "name": "Malice in Wonderland",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=YYSSSY33ko7PIZaFEvb99H9OVvI9koKrb146fMR12QA%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "San Francisco",
+        "name": "Mango",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=CCuoXoX0m66gs%2b%2bZf75ZcO1G3m0od2Qh6clwajeBrzI%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Syracuse",
+        "name": "Mashed",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=ABPoVSS7zAHIL774UYBTRnWrvY4R%2bvbEpyBdCRLrjno%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Madison",
+        "name": "Mastodon",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=%2f8jGYB%2f%2bHqGa7md4D869Iv26UbqAuSk7rZ0XQTcOR9Q%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Orlando",
+        "name": "MCO",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=Oq4q4yclVT8ve1C5WYP8ISCOJeGMUxCReBXpmPkVajg%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Saint Paul",
+        "name": "Melt",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=3Zq5zUaZ3YCXWtogFcNsVI2cPg5rqgFRo7my7OU2ySY%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Memphis",
+        "name": "Memphis STAX",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=nAnn%2fluJhaRIX%2fadrt3uHfWGP4B27slqm1nGZe3eTPk%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Denver",
+        "name": "Mile High Trash",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=Fq45Wsr5Sae7vMWAoC7E%2fApJr8z3HSzR4DiTzLuCn5E%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Minneapolis/ St. Paul",
+        "name": "Minnesota Star Power",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=WYrHriVkPk0BxDWf%2bGAIZxVzPoLd8fq1jFaI90fN1cQ%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Bay Area",
+        "name": "Mischief",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=4aL7rz0bAycyVaWFBSMNsT%2fxoZ42Thun0QEoyFaXiU0%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Vancouver",
+        "name": "Mola Mola",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=R3torHtsvmiEgL4YaSK%2f3ctvp6yP722vPsqRN5faCVM%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Montana",
+        "name": "MOONDOG",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=LKiTaknuViFISrrRJFPeSK75cLLQCphqfAadMPDPGvI%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "San Jose",
+        "name": "Moonlight Ultimate",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=JihGN8SCgAu1fu%2bwW2YhsTiqaIkTB7sjtaEf%2br7LW1g%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Chattanooga",
+        "name": "MoonPi",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=US0eB6mcfndYx75tOpcTktYC23DIjAUOMQMqwyUD4uU%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Austin",
+        "name": "Moontower",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=OLZGG0KmKklXKLILPDeYhvNneF5DSuPj4Rl0te8gNdw%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Madison",
+        "name": "Mousetrap",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=Px2Q55mFkVQ4TYyOjQNeaQHE5VXeLLbiGUm9OnHoeZQ%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Athens",
+        "name": "Murmur",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=jfrDO7v1tbpo0P9rpncMgDpqlH26xObEsMPfi%2fYtt8o%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Tewksbury",
+        "name": "MVUF Tuesday Evening Pickup",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=aZnNs67wjGHEcYzPR8GUasBiHb9ZkQxPBxwFMpfspn4%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Portland",
+        "name": "Nebula",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=eAhLbkmDjdxIvp%2fCpIioW0WQkrQBNout3BPCobSm85A%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Twin Cities",
+        "name": "No Touching!",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=FkGUMO9BVJS9%2fvIOryCBQtZDEyCry%2fu8HXnKRtVQw6M%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Madison",
+        "name": "NOISE",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=xhwUot6ULR50sg5uDM1VFt0thXpg9XTLlYF7ZZGqwCg%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Milwaukee",
+        "name": "Northern Comfort",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=SZDR9tKx7fta2XEYu%2fiVQvTIVpluxwusdUDJaTPusOE%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Chicago",
+        "name": "Nothing's Great Again (aka Babymaker)",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=Iu5pdj%2f4BI2CdIQmdZSZOT77eFmEsJHZdlR2riZq%2fIw%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "New York",
+        "name": "NY Swipes",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=EJhE2dK2PubVO2KTloiKFOg%2fKiqyburpd%2bBYUF5Fl14%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Tampa",
+        "name": "Oasis Ultimate",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=87CpwWGewzWOp4Foh77E3CkrA%2flWLBNIgZ3rqX%2fIxC8%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Washington",
+        "name": "Obelisk",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=%2bu8A56zYE98FDwwJWH3dJzPtY5M1PN7s0R7BsEDJI14%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Boston",
+        "name": "Obscure ",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=1yqkP3RmoWUoJgLnA41Y8uYs002g2JS304w4FHHdLgk%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Culver City",
+        "name": "Octonauts",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=t6I8iFucs%2faUV34Hd0xprbyZEoQSpZdoNZrVkCuLYqA%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Oregon",
+        "name": "Oregon Scorch",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=bqhCo%2bh0EqLTbSb8%2b3NtMSsAMVRijI46C6HFOYEuYAQ%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Athens",
+        "name": "OUtlaws",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=yYjFQFdw14iks%2bmyg3Ql8BQ0AgrG5JlwSl3250wlOZY%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Twin Cities ",
+        "name": "Pandamonium",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=oZnJXjRfSUnTvBi2tluftjUNYqpMg2AG03ySaLI9jQY%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Honolulu",
+        "name": "Party Wave",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=SiHQPrffwFPufuhrgWzH1BfWkEf8meSePCAZbdAh4R0%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Winnipeg",
+        "name": "PBHG",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=yime9tpY6buEE25mDWjEz6nfii0FuqmS1A4veXpAaa4%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Seattle",
+        "name": "Pegasus",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=EXUuqmOQBxL5CdxzWDqcPIWi6TnTU0DD2cwy2EKPr%2bg%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Philadelphia",
+        "name": "Philly Twist",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=xJsyODhtVlY9CiT1Igq45JudyLxiNfBVr5bkpt9rlh0%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Phoenix ",
+        "name": "Phlagstaff Ultimate",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=8P%2fJPExGBCUqYF4BZO6US2zJ5Y5EZZWEU0CrQlwF%2b7M%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Pittsburgh",
+        "name": "Pittsburgh Port Authority",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=6cdE1%2bb7XpermLr2RsWrS%2fjoSNCYkpSMfC7QwBsMNCc%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Detroit",
+        "name": "Pixel",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=E4pKZBBQ4MfFhAMWZ%2bbr70ULYKRhcG3Lx7WLYj4z9ik%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Evansville",
+        "name": "Pocket City Approach",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=Z9a%2frn00YIFf0j6O%2fPHa5sOBii7SVvqYSDdCV1LnTz8%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Stevens Point",
+        "name": "Point of No Return",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=%2bOqjv5Kl0soWdHq9JZcRDTQ8tOplDCuhokHANPBqPns%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "San Francisco Bay Area",
+        "name": "Polar Bears",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=2A1iUgF0HHnPw3cedmGTrle54PBLlMcgxEyuRM9My%2fs%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Portland",
+        "name": "Porch Bears",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=s8Uk3TvFt8PgTmGeV2X5phTjOITC8lhkcocb4qPzFTI%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Champaign",
+        "name": "Prion",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=2AsE8bFFfGP1uBeJG7olAQL5hc1dF59MirTrE2ayDec%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Allentown",
+        "name": "PS",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=FuF4eDYkquY1y9stiY%2b7cDrdeZRiY%2fVh9UXGApb1ZQ0%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "New Rochelle",
+        "name": "PterodaCTyl",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=QrA5wunLMYM3ZYetSZCckt9tMCSZELBTUsdzKDXRlK4%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Richmond",
+        "name": "Pumphouse",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=rjKIE1E0jt%2bHG92dzddZh%2fZ%2fbYTXnLVuJOdaEAGExRg%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Lake Elmo",
+        "name": "Pushovers",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=%2btXBlQio%2bwMPaiwrAdcTIR4x1%2f8jeg1Q8UJ%2fd1eHPiA%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Huntsville",
+        "name": "Pyro",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=j%2f5jDQgVcu1RMJEMcINux9aiwd6mZo6EGxjJW9IPvL8%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Springfield",
+        "name": "QCO",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=lQ2BP9XsCA1IkVC7PNdH4eVCLXTI5FxxYfsTsOVwhdU%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Quebec",
+        "name": "QOLD",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=4ZnL3aQd6TysoGw1nFWpwX0arEqTN1X4St6eyKxHarU%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Providence",
+        "name": "Quahogs",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=0vk2AzMvkTC0bv5%2fbxicZ%2bSb85MSIqCDfrv9VtNKPp0%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Sacramento ",
+        "name": "Quails ",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=e4oayS4L8x4Xo7oxPiMXEcWXy8IE43arg1OLWDUTysw%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Quebec City",
+        "name": "Quebec Ultimate Elite Senior Team-Senior",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=Bny2zhV6XQkX5ufSMPrIYwT6tHrg7zu0g0RZmHcm8dY%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Cincinnati",
+        "name": "Queen City Gambit",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=UFYmEB9hPPaYBqUVMvnjVqELsy48jGi1CUJEVBlkPy0%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Quebec",
+        "name": "Quest",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=UYgECxp4tpks%2bI%2bhvwjwAaqyfhmNa2at0V%2bPMRFSxUk%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Logan",
+        "name": "Quick Draw",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=EtvD87Eib7P9U3lyMhzk1Y9RVZxSpeRhUnZjqCqIfzI%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Somerville",
+        "name": "Rainbow",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=0PnbTucmUfPU9bRY4qMsX0Qtmro16tihX0i%2f%2bq0ilTE%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Washington",
+        "name": "Rally",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=lZbqNDtI%2f4q5E5r%2bamF44siOA2ayq5bZkWPnrDS5VkU%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Chicago",
+        "name": "RAMP",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=6vm%2bR8ww%2fG5bIaogvBp3mbyrd1VyDQyiZqkPTDlpr2s%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Raleigh",
+        "name": "Rampage",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=AwisyOKewQXbabUcfDy2V6XwqlQkIE%2fkq1nEmvkuBas%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Vancouver",
+        "name": "Red Flag",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=ZddLJRkVFlfgbodnUYudkBHWCrY5vzGRYXfvHbPowVo%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Sherbrooke",
+        "name": "Red Fox-Senior",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=Gf31rRxtPyJm404bB%2fShkCCZIgz3H%2bv625Fk2H12GOs%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Richmond",
+        "name": "Revival",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=4cXCFJ%2f%2bEG0ocbWRSH2TXgLH7QYQ3lTSnA1E0W0IZUo%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Richmond",
+        "name": "Richmond Club Season Warm-Up",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=REGvTzeQ5ho%2fIfYeKmJoMPelZ%2b9vhNNyIVGFY3d1luw%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Dallas",
+        "name": "Risky Business",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=XCSKbO0yvzIjjzWAaf6O4dM%2fPL83pX4M%2fw8Sh1Wy1bE%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Roanoke",
+        "name": "Roanoke Rizzlers ",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=C%2fZqU2ToB9AU6mGx%2f72l%2b5U6u87bb%2bG6qgfbCQdVP6w%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Santa Barbara",
+        "name": "Robot",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=eOJStO5CGBJd1yS0wNkax%2bITXRS7ytRXtw5OrWzKy6k%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Pembroke Pines",
+        "name": "Rocket",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=8AEHklUr1rUJJ%2b0cVKK1edGEdAi61zRDxGBbwSTJzhY%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "ATL",
+        "name": "Roma Ultima",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=p3P31B5P4AMHYv2%2bS9gVU6OfLrl29QFplgD7Euu0LRA%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Richmond",
+        "name": "Royals",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=xDrW5HlYQwNTREBhWrE4OjoSGUfby6lM01PCZdBkEbg%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Bellevue",
+        "name": "RuffSide ",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=XsJnMS%2bB7XtAiE4iTZUCCnBSCEi3XQhvs6kyJ17MO2w%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Denver",
+        "name": "Run Like The Wind",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=16kvidT9XN8sIZUFNde%2f%2fWqQVtl85jO%2fiiICmUTEr4c%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "San Diego",
+        "name": "San Diego Gold Rush",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=WGRVrmWovL9yrvvvar5PjRGRfo0EbWnKiyvYUzVPy%2b4%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Savannah",
+        "name": "Savannah Wild",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=sSLLsjuJofpBclBHVnKEsCx9IsYtiCOqPDF98TZlvp4%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Salem",
+        "name": "Scarecrow",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=5HpZffbQrnEE1di88gFhwXrM%2fiKCenl3tEZlzriNqOQ%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Fort Worth",
+        "name": "Scoober Heroes",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=VVGQLkdQoWMk9Q%2fxD6Z9w9SoYBsSYmsJ0iJ4iwRyGuA%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Seattle",
+        "name": "Seattle Mixtape",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=xLOVDqBkjry9Sr9mv%2fK3ZuVknnnq8allF%2f6ybb3HIxQ%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Seattle",
+        "name": "Seattle Soft Serve",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=Nemp7GChAtNEwCGrcTTTGmYMGQfEeSq9GYcgKAnxx8c%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Salt Lake City",
+        "name": "Sego",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=ypdQCiH4mI%2fc6ecpreUCtMVxvNRG4pDrZ9jhoOHE3Zs%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Fort Collins",
+        "name": "shame.",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=Fo1cdvngmHN9474Oe6pGNy%2bINHwi8%2fhIDyqrOhUS5iQ%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Woods Hole",
+        "name": "Shipwreck",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=AHE%2bRzNtrdKTQYGb4VrXSqX3ehwDoYaK8G2ea3wbu8c%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "San Diego ",
+        "name": "Shipwreck",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=jU99f5AYyeXZ30iuqRDIYXh7LkfFAonwKM1%2bvATxbiU%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Albuquerque",
+        "name": "Sin Nombre",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=C2lQrUWkttGIq%2fj5xCpgBTFRzHJDBHC7a4u2UNlZnGg%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Philadelphia",
+        "name": "Skooks",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=ebKqxMYs%2bO63bO%2fR7pAasZRb1ZrWwvoypeqaY1x9kjc%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Missoula",
+        "name": "Sky-90",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=RTE%2fxGCUQOacv6TxsyysZKTn81EFDS375iYZ4WWkqA0%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "South Bend",
+        "name": "Skyhawks",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=ZSn0k65eRDiQtXLxf%2fJYlUgSC7mW6rV1SaRYp%2bwQCGI%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Boston",
+        "name": "Slow",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=KIDUXMMJoIKcnPweBVfwKW9YNhx0qZ72YDVJ%2bGn7Vq4%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Seattle",
+        "name": "Smack!",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=QXl2tjfgSbRVKXJBK8eWOOTH7Hyii4IIqx%2bP9kexlhM%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Little Rock",
+        "name": "solAR",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=Bc0Tzpjqk2zl2XN73PCHvWgAcBjWDs0iWnPD2S6bkjU%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Huntsville",
+        "name": "Space Force",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=zY4mYSRmFKR%2bPZ8VDn07f2QqZ%2fNBU7Ldea8a6wXhAoU%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Arvada",
+        "name": "Space Ghosts",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=UDysbTau0CVXYPoZknPf6FUvhr5VqudeA6%2b28NiHoAA%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Indianapolis",
+        "name": "Spectre",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=zc2B7PMzF5Fx3aFOkARPM5drwPyBrTVDMsANVKspri4%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Charlottesville",
+        "name": "Spice",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=vfgV6czyHlpP3otkZdWxhlkO6pFghEzQSz6KwPYc4x8%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Los Angeles",
+        "name": "Spoiler Alert",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=xgOyuIHi9zgeudUTjm5f8iNvo9YwGKWcNpUfttAHwVA%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Seattle",
+        "name": "Spoke",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=kru5mJPrac6ca1tIwowVh6oQp9Y0Fkf%2fXGGJ9sBkbr4%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Medford",
+        "name": "Sprocket",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=2o%2fx2xG1dtciVQ8HveGmuiUH8jRjTKMgq24g9w9IUP8%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Chicago",
+        "name": "Stackcats",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=%2bWNnnjh28QxN99tbH22JMmb9nlZ5jW8oHsGDAvtEOfY%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Westbury",
+        "name": "Starfire",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=wkUeW4R7dmmt9ULXd2uKxv27ZpzDKxa%2fMEhsbQTduU0%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Cincinnati",
+        "name": "Steamboat",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=AqN5Ed2bAKGPwnwhOW5rWZiXMlenfnVspLI4LvljkVA%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "ST Louis ",
+        "name": "STL CELESTIAL ",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=H7lC0C9P29s8LYlYbEGMvVFPbkuQ5zgqHbifKHIWSE4%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Charlotte",
+        "name": "Storm",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=40TQ%2bpYMJhyVfqd0WjPZfQkBC834JH4oZhGCngUMc5s%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "McAllen",
+        "name": "STX HEAT",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=VDZouXio%2fl6qsAaJMz%2bzkUHYo7ek7%2bZQV9dWyNBb%2bE4%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Grapevine",
+        "name": "Sugar High",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=JBW7Na3lAI%2fKOJI7S1uqbTCcK5Mo%2bz%2fr74Aos2O0Jkc%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Burlington",
+        "name": "Sugar Shack",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=rHobZ86uAnRqg2CcS3Ryh8osTd9KqEhsj121RQPrfVQ%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Bay Area",
+        "name": "Sunshine",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=Ez9SOcjzQDPjnjzG2yC5Z7y9QRT77ewxmPSeY9okfsQ%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Twin Cities",
+        "name": "Surly Dome Time",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=511xjMNOh0ZwIo6oqbUeXkSpwec1AtFDaTDPmbDN1hY%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Boston",
+        "name": "T Party",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=Mh95BZQ8Wvloaz2WnX4vwjIGgCo4e4kK9wyY4klNqgE%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Northampton",
+        "name": "Taproot",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=WZKVAwan5gKyEvKSbyzcT4yeLw3lS86eccT4indVY0k%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Nashville",
+        "name": "Tempo",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=GkC0c1wre6RZHG%2b4bJ0spcVbe%2beBuyVY18ixn1vWvhY%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Portland",
+        "name": "The Buoy Association",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=949JHs09WgU2VVaO0KxKGtfdbOBJ9qOO%2bq6fxFIZ3l0%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Ames",
+        "name": "The Chad Larson Experience",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=FXgv4dQMD6l4%2blpIGDbIkoqpJELqsRAXPVrAMu0p32Y%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Minneapolis",
+        "name": "The Force",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=%2fuK5Jnfon80DqumXUwgiLDw3azFt07MUm2ICGpNyOMI%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "La Crosse",
+        "name": "The Midwest Goodbye",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=57dg4XDyPbvOI4B4Y08IS%2fLmb84Wl0kDw%2bsV%2bbNLfbI%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Westminster",
+        "name": "The Strangers",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=dL8LeZdxcXM%2btnCfKn5rBBcP3BKYU%2fnO0AOoFtowusw%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Westminster",
+        "name": "The Strangers",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=CSjlkvanWQPD6Usa1GykohzH0IyoeLLUWtO95xoCsQM%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Fort Wayne",
+        "name": "Three Rivers Ultimate Club",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=3c%2bCRN6Uxbm%2fWzO2uoSXN5hGhcn06bt73ObNiVT%2fgr4%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Dayton",
+        "name": "Thunderpants the Magic Dragon",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=NOC6DZ7xOuzTqqiR7oVfM2%2fPoZu7v9sXvfm1Y1qouJE%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Grand Rapids",
+        "name": "Toast!",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=bHYfalvR18hZ%2b8A1U9B479LK9bCdDBksyjxD%2boqSDq8%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Durham",
+        "name": "Toro",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=K79o%2fhMZYzoG5W3QLR5K5FqIfyfcSPobGnna330zdFM%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Durham",
+        "name": "Toro Tryouts",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=BZse2GVf5C2xFFfFkMRZfjVE2kbbQ8ThqsBxkG%2fCK14%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Sacramento",
+        "name": "Tower",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=AsheMC5fv8mDJJmY4%2bOuoFix98WfLFvyZeIMcMozGeA%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Ithaca",
+        "name": "Townies",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=p6L1%2fl7zI%2bqCVsksDrUpuOiC3W8ox1bB6Fs%2fBWhliis%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Dublin",
+        "name": "Trex Mix",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=IcArwatnm0dCr5UI5kkV0a9HubQ%2bM%2fJ5nQR4D4XVf5k%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Vancouver",
+        "name": "TT",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=Cax4hWHf4J5Va7PnwZRju%2bs%2fGbqj7ecIIiprxCJnRls%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Tucson",
+        "name": "Tucson Club Tryouts",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=haDdyrLSofEmRwgW5H8KU21YhgMeKtKHjDN2U6BzXrw%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Tucson",
+        "name": "Tucson Off Season Club Practices",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=CLY4tqvoG4hQCPxwJ8teVVYWVKKDlcIEOxL7k%2b%2bcthQ%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Ann Arbor",
+        "name": "Twist",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=xkv2njVyoc1jMybgMsKrbSCOG3JS5SULqqhKRDGH3XU%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Olympia",
+        "name": "UFO",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=j7zRzUeiFTrexnq6yDAu5Dha29i8WUEs2HhYzvq4tC8%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Ithaca",
+        "name": "UFO Ultimate",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=WnZMxyVzaR6r2uI0OzM0G4b%2fF48I1VOLXG%2bF0psczbI%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Toronto",
+        "name": "UNION",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=PG51FD6jOmjaQxVsJop0oerqWHJ3XStecF82hFVZejQ%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "West Lebanon",
+        "name": "UV Rays",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=kM374UHegq9Cn1ZHHqv6DL4DTE1cVyrNeYjxaEItd80%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Greenville",
+        "name": "Verdant",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=dF9vYu2vSKhDn82ljH5CPd3GOol5AhQz9JY2LiDvA0I%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Burlington",
+        "name": "Vermont Foliage",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=w9RKpWyAY%2bQi%2bx4FEvmi6224A3jQjpsoJvqeJ%2f6H%2fUU%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Baltimore",
+        "name": "Voltage",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=3IX9qjEmIXhPjQjx7JYi0k%2f72U%2foR1IGJIeB5p4k8mE%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Bucaramanga ",
+        "name": "Voltaje U.C",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=QHZSXDZGGAvS7CRIAazWmxZTwFZQrY83ijFEBdJlmJo%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "San Francisco",
+        "name": "VU",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=cDczv2%2bZjTE2QfwdZoI%2bLD2tLFjArt%2bE5xZS5GlP0tc%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "new york",
+        "name": "WESS Wildcats-B",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=driAU0IcuLL4C52f3CUnt2e0vTnBhwyLk5SNFIP8R0U%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Boston",
+        "name": "Wild Card",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=T06L2uEs0Bbib%2bXslsiwnAAqnB9%2fZkRjc7I7UJHLpRg%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Lexington",
+        "name": "Wild Card Tryouts",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=9Y%2fLmThJ3F4jBeCbeIaf5mnOFCKfyREmwam%2bwmuL1RE%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Chapel Hill",
+        "name": "WingDings 2 ",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=JGcnNowM4HJMASOfCSeH3CXCnA2cjWjEC2hGP1Yuy1k%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "New York",
+        "name": "XIST",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=hx6RIagfWiD91Hj%2f1A1nxomWIWvFwSV0VToyojH4htw%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Sturbridge Village",
+        "name": "Young and the Restless",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=Op%2fpE7G%2b4yltLdM0O3ESOJp3jwppVYInZNBQkluqEE4%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Toronto",
+        "name": "Zen",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=ypX8sNDePY274oWsAIqfU6Vyzi33DMVZKLhonRZkJ1c%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Burlington",
+        "name": "Zero Strategy",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=RdCGRwl%2bUJJKMhWsICf5c4PJu6z5V4KYqlm%2bX7DHrfc%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Houston",
+        "name": "Zero Turn Lawnmower",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=p%2f5dSd%2bsxPIzxIt1GbJZKx7ZOhxHAirHUycRoMXprqY%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Toronto",
+        "name": "Zen",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=ypX8sNDePY274oWsAIqfU6Vyzi33DMVZKLhonRZkJ1c%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Burlington",
+        "name": "Zero Strategy",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=RdCGRwl%2bUJJKMhWsICf5c4PJu6z5V4KYqlm%2bX7DHrfc%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "location": "Houston",
+        "name": "Zero Turn Lawnmower",
+        "gender": "mixed",
+        "division": "club",
+        "url": "/teams/events/Eventteam/?TeamId=p%2f5dSd%2bsxPIzxIt1GbJZKx7ZOhxHAirHUycRoMXprqY%3d",
+        "rating": 1000,
+        "games": []
+    }
+]

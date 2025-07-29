@@ -1,0 +1,13 @@
+1. Update gender in teams to division (college_mens, college_womens, club_mens, club_womens, club_mixed)
+    1.5 make everything not based on college
+2. Scrape other division data
+3. Add events tab on the right (events that happened in current week)
+    3.5 Scrape event data
+4. Add delta from past week
+5. Add pages for teams games
+
+
+
+Future
+6. Deploy app
+7. Add what if?

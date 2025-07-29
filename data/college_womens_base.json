@@ -1,0 +1,2612 @@
+[
+    {
+        "college": " Carleton College-C",
+        "name": "Nova",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=5xLuJ660qP2XPWjpsWJjCtTXLNF5zpreR2ExFQIuRyE%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "Air Force",
+        "name": "Kiwi",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=z1sJm4MkFYVjw4Kz3DtPu%2fPznFRTB347g%2bPmUsdQi7c%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "Alabama",
+        "name": "Ramma Jamma",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=NZj45K6YeH5e1%2faDNpTcL%2b5ajrRb4hkX0iyur1l7gD4%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "Alabama-Birmingham",
+        "name": "Ember",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=6CQizRYbnFLahQ%2fn49%2bcUdm3ymJhVQCEyOBvNb4Cl5U%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "Alabama-Huntsville",
+        "name": "Terror",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=kKZC4PPhqWXfSW8jbb09om%2fY43UIMm48BqCaARfyVN8%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "American",
+        "name": "Dirty Ladies",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=lR4fw%2bzbyaJigeAoj75JjAoHrdzoVabKwgHLB7WyC4w%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "American-B",
+        "name": "Dirty Ladies",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=k3xCsmRZhhXc7nx7LhpCPkluAeWiPiKwpyfwcvUKAGE%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "Amherst",
+        "name": "Sparkle Motion",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=lLFRmrxk81Pd%2b0N7JGveafAf7pVdVd9WYOhGR7rJ3%2fQ%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "Appalachian State",
+        "name": "Nonads",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=lCbu4HHkYYOG3ilU7PmNq%2fEihlPLHEs5JSKernDGGAU%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "Arizona",
+        "name": "Scorch",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=tJ39%2bAfjNLSbpxTwTX1WgOizl5ZHLR59dus8vzZwdIw%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "Arizona State",
+        "name": "Caliente",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=vkzKuo%2bIMONxT2d5gIOO54CBrq9HX9Il5ctM3hOfCXY%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "Arizona-B",
+        "name": "Sirens",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=YGBkBWTDW2Ioze7uJFmK3WLZwv%2fQ9dHDQInPAwfVWgQ%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "Arkansas",
+        "name": "SoCo",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=QXduB3HMOWv9CBb73f1%2b5nCU3wRdDfy391ic74OMWrc%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "Auburn",
+        "name": "Ares",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=aZtIjeoQM9j8fn%2f2JDom3K%2fZ0ZpmXmViTTe%2bw%2frkRMc%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "Bates",
+        "name": "Cold Front",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=PNOsYB0PxBFDDnVMM4BrKwKqHyYKYgmAnzTXn9%2baP5U%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "Bentley",
+        "name": "WoBUS",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=Gq4h3tpT%2fKCXmKO93lTJtqkK8fsLF02kZ4cIbdRZ6aI%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "Berry",
+        "name": "Valkyries",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=S3fc8PnUhCURPr54trqFQuZnRs%2bGDcQDbRDgTcWcU%2fg%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "Boise State",
+        "name": "Buffalo Gals",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=%2fLwO26rLN0kYfgfso8BTVDFBuelIvFDrwXvlM4pGMn4%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "Boston College",
+        "name": "Boston College",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=Q9Ej3Z3vm4viwin7Y%2fpkthGh3BT4hfIQWgs7VNJxw7k%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "Boston University",
+        "name": "Uprising A",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=1lBHi2C41E9%2brWPZTXShuHlq1U3tmE9cgaSQJeZU77c%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "Bowdoin",
+        "name": "Chaos Theory",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=R3AUf%2f9rOJW5LFh8Wg%2bM1bD2a5F%2bPgvg%2bNDEwCoiheA%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "Brandeis",
+        "name": "Banshee",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=7za9SOAfyTgq9J4h7HBGqaQQJPLXLP4k6BGUo3jhXgU%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "Brigham Young",
+        "name": "CHI",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=i%2fZHbJPw21zbHnZMgHEFkWvh4oczAI2Q9ZIR%2bUKrK4s%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "British Columbia",
+        "name": "Thunderbirds",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=lXB0IM8IGizLyrvIsByx4OspwLOv2hfcjktHWM57Tk8%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "British Columbia-B",
+        "name": "Thunderwolves",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=LoGnrGj2ovAiDc%2b0%2b%2faXVZ3Uin6umxylKqYPgu5f1tI%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "Brown-A",
+        "name": "Shiver",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=Zx43Bf6Ap41v9X6VicaPKz99v9aomEULbpZAz%2bHcOhc%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "Brown-B",
+        "name": "Cosmic Rays",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=qxrOI1dZCiK1HXykQSzQN5S0nHLjSDyAlXDiKjSa0Po%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "Butler",
+        "name": "Hot Dawgs",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=qfiy5UNt66DdyRYP0UHZ01GLHHIxdAFdgmuPG6nqhlg%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "Cal Poly-Humboldt",
+        "name": "Hags",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=%2fH7GQkxTCZxrCNh%2bFeuY8wOG%2bGWm1yrd3BNUYWyJ2jQ%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "Cal Poly-SLO",
+        "name": "SLO Motion",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=3wtMr%2bMgfjPvEajqwWiQ3waUzzUh%2fr1xgmczyK85TNw%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "Cal Poly-SLO-B",
+        "name": "Motion B",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=L6aeBzlOS6PKXgtnA9jefrb34TdGmrp8rEeUCQkl7ow%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "Cal State-Long Beach",
+        "name": "No Regrets",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=xa2hKIrO5RNoHoQs7f%2bzwH33Hu9sa2VtYk0jwCUu9nI%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "California",
+        "name": "Pie Queens",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=pA9ydzGZi5jz1lDZ%2fsXO5qf8LJ%2bM6mxBgdpzlfi7iWk%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "California-B",
+        "name": "Cal Tarts",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=7bR3Crr7BBwnXaE3UAXt26aKQp58FpSz%2fS4UkODhdoY%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "California-Davis",
+        "name": "Rogue",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=X2dMi4XlRXcajpyUs2tjJ4piF3eTnM2JA%2bVh24GPORE%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "California-Davis-B",
+        "name": "Rogue B",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=cwtHf1Bd8ve%2bdHqZPCNF40Z%2fx9lZIbC6Ne0Tov2TakQ%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "California-Irvine",
+        "name": "Grass Ninjas",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=yPDbehsI0HjWsnUZZmwjGct0qnv25bEwatXDEssKw04%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "California-San Diego",
+        "name": "UCSD D-Co Womxn's Ultimate",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=uBh4BLgY2DwXPR1rQ%2bBg1Eh6sCvIQpKocLfNsI4wud8%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "California-San Diego-B",
+        "name": "UC San Diego Berserk Coalition",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=ssljaGHvEIRAkvOkoDsUSyUE%2fk6jeP9C2l4EES3pl4I%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "California-San Diego-C",
+        "name": "Coalition Co",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=t5UAf2MoxQjJnoOARriEHhdwg4X7cubu6heVE%2bo4buM%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "California-Santa Barbara",
+        "name": "Burning Skirts",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=LvO6IsjAosIh8BcHh36REC5UcpBi69m%2fF1zoI%2fvdWwg%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "California-Santa Barbara-B",
+        "name": "Mini Skirts",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=%2fZr52%2fBclxCeZD3W%2baVJ0D0UriViKEyhD7jC81p6RJk%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "California-Santa Cruz",
+        "name": "Sol",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=v2I7G6eYJQSEJDlDLWEDUNg0ao4aHKjBnfrraGvzjf4%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "Carleton College",
+        "name": "Syzygy",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=xaLO9pidx0Ux1ao7osPk0bnHKl0U%2bot6fAJWnBawFh4%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "Carleton College-Eclipse",
+        "name": "Eclipse",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=eeQKtOvwlgV%2b73ygJwq%2fdWhHLm154Gt%2ffVFI7BnYoPc%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "Carnegie Mellon",
+        "name": "Money Mellons",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=vYXCLfg1CixsEY9MA4lG%2fUoqUe1lU297KUv6n9gKcWA%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "Case Western Reserve",
+        "name": "Fighting Gobies",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=uUM1DYhZOOrMIu3tVqTbniFSb2EOc%2bWIa%2bx21AnO54A%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "Catholic",
+        "name": "Nun Betta",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=7QGLgpRTkzko975bf7IQPT4yuTtWX0h8w8uwRKA23Ug%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "Cedarville",
+        "name": "Queen Bee",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=lxBdc%2b0xF%2flqv0IomzVozJwAUBvqogVoV8urvV%2fJ7rE%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "Central Florida",
+        "name": "Sirens",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=%2f1eeBLXClxd8TUQJPJ%2bIcUX8Tphl9ik1SEKl%2bWRLAlo%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "Charleston",
+        "name": "Charleston",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=asf9Scb2VYx9sKU2atK1PSQxvgFV5ajtiNW%2bDK3s8fs%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "Chicago",
+        "name": "Supernova",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=nXw6EifuSvjtw6LfC095EBOdHrOhy%2bbSYzPTMsAqB9k%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "Chico State ",
+        "name": "Chico Chicas",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=%2f9M2Lqk9ti0gsGyuwcLbnnW9VUVjOt7iCPZDCXCMULQ%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "Cincinnati",
+        "name": "Toxic",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=%2fLSAB3e0IT3ULu7HNeTZXLP%2brFxIZ3aXAYga7tzSePQ%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "Claremont",
+        "name": "Claremont Greenshirts",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=raffucGeMUKB9m%2bfBewl2MdYOroCbfKK%2bOuf90mqjmU%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "Claremont-B",
+        "name": "Claremont B",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=l4mhmukndzdi2NakPGUGXCmtZUGewtyN%2f1x9c34mMOY%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "Clark",
+        "name": "Joan of Clark",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=zQ0QZC7O8GncooSGTgKPDU3%2bOOsMB%2b%2bsYRgLjeYrV3A%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "Clemson",
+        "name": "Tiger Lilies",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=HH7%2bRfFoRBrd7nmcW4%2fpFImKH4aPYoav3eVScmfwHTk%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "Colby (CDC",
+        "name": "Women's)",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=ZU9Xo5i8QOQUIbvg2%2bvozelccY5GjgjXlBlCUDZasoI%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "Colgate",
+        "name": "The Vibe",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=Q6rdQiFyOFARIrCGXFLLC3GqtHPaw7KpmYQny2lKE4U%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "College of New Jersey",
+        "name": "Anarchy",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=guCef46ZX4kRQUsVMcD2VbNtTjJf%2fU%2b6w49GJ20LNRI%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "Colorado",
+        "name": "Quandary",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=3VbR5%2fveVwk85k3NUcs9VotbebaCIlqTWiH3mQLzwIU%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "Colorado College",
+        "name": "Zenith",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=gltUV7ej8JOeeqARQYX1btqY5909NBD8xnWPelxTH0k%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "Colorado College-B",
+        "name": "Zephyr",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=9GI08hppaUkaI3th2X5Q0wCzbxdIqLmYI8u4v0OOAJk%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "Colorado Mines",
+        "name": "Orediggers",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=xfJNIV2CDRmqv%2fcG04l9IxogAQL9I%2b9QaaB9o3%2fMMcI%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "Colorado State",
+        "name": "Hell's Belles",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=dtibLQpLiRHtm3FX7UOIsnARNOwkyAoyWaHY0hrzWzo%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "Colorado-B",
+        "name": "Petra ",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=VIKtmQTyGEu2%2fPY7SFJ2ErcJQ3zwH6Y%2fF%2bEVGxFqB1w%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "Columbia",
+        "name": "Chimera",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=V6%2bstcHduQ15a%2b88ITnXLLY5CicJWlXOK6Kqned1g7w%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "Columbia-B",
+        "name": "Baewatch",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=xq5MenlMc5tDSh9JoPaKNb52%2bzL3gYbhEYnTMA18YWk%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "Connecticut",
+        "name": "UConn Women's Ultimate",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=LhtRcf3XsLLvEIyCLgC%2fDwoBTahw4MjxSsgQ8KxF6%2bQ%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "Connecticut College",
+        "name": "Amaltheia",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=gYaUOYBCf1P74NYwAh1gnyoqb%2bWAYOz%2fE6z%2fqTszxV0%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "Cornell",
+        "name": "Wild Roses",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=5b9gU1oseNhHkJpSde%2b0Vapc6HPvjUJPX1a2RH7vIJM%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "Cornell-B",
+        "name": "Thorny Roses",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=%2fzZj6AopaOvo0kocbEz%2fbu0JFjSmR1zASYLc3CDzodE%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "Dartmouth",
+        "name": "Dartmouth Ultimate",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=Pbl2c4Sw8DDsCpiRV4A3kMxy6mQgMHvJ%2fFG%2bPswqOGg%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "Davenport",
+        "name": "Davenport University",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=7OAzohjwOsNoMPsL%2fpJ8nqNK4GyfufMRX2YqvV5bqOQ%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "Davidson",
+        "name": "People's DUFF",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=rqqEtUEWEDFPO78xoFs1wpPVH%2bTQRZS7qBDo%2bfKZyGs%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "Dayton",
+        "name": "Kraken",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=aAuxhI6jD7lyv1lIbj5LzLU%2fk%2fQmckEIoAspFkNk7fs%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "Delaware",
+        "name": "Sideshow Ultimate",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=nRm3Dsv4x9Xuera0BPpadErQcPyqVn4cqsXhO1qtj0I%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "Denver",
+        "name": "Hype",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=YM%2bQkGWJKY44C6o3xVvymzkV49zwaV3IPgwqzxxN2Gk%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "DePaul",
+        "name": "Laser Chains",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=aOZQTtRTbpN%2bFMC07SiQv9WgSw51ChaGK87MxkQRRHE%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "Dickinson",
+        "name": "Dumptrucks",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=f73SfMnPrfzKHlpzaNezc002235sCVfhzttx5jTFNqU%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "Duke",
+        "name": "Swerve",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=9jcyOp%2fzSIzldtcIPI%2f5AW2GwZOAnjI9YCM3Wm4MM%2fA%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "East Carolina",
+        "name": "Black Pearl",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=vhSQxAc%2bj3QX19sNjN7VHdXLMjABU9Mw2ay5CNwAPzw%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "Elon",
+        "name": "Wild Rumpus",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=NumqYhxcwusMmRw1vCuixv15%2b4PeVEmOhmqcf0BrA7g%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "Emory",
+        "name": "Luna",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=Vs1kS8WkSOJBtBVHKrGcM90ech7dNRIvCjKZ%2fJoM6P4%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "Emory-B",
+        "name": "Tuna ",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=D5%2f7%2b413GEMbHhBwcQDsgq2fHI6UPDYdEgqHGyWgDco%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "Florida",
+        "name": "FUEL",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=5kqY7%2fXV2MRDGBMQDSJe8PnM6sp2c7bNUqWM1aAToBI%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "Florida State",
+        "name": "Seminole Ladies",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=Us9ULnvgLWM7KesUkAVOdNM0lubxKbzOnv99ZYdFt9g%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "Florida Tech",
+        "name": "Flux",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=gsjM0hxKGyXI5o%2fJWcMfq94P2Fy2tbyt8UUtlJKxtTw%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "Florida-B",
+        "name": "Diesel",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=xmaFek2kG26ly2u3GyMcSFU0VYoG%2fin%2fOr0Gn3BmLBM%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "Franciscan",
+        "name": "Franciscan FIRE",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=9R72n3k8V5fKnFLVqs%2buJ6kHwu4QDV6kUYiG6xtIyrk%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "George Mason",
+        "name": "Extinction",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=H3c2aIg%2bnQJTlws179bAQjfPE%2b%2boADjwAN9DpPCGZOc%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "George Washington",
+        "name": "George Washington Women's Club Ultimate",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=Oc7caETh%2bdypZ7letI11%2fIWAhUs1tScjlGMEUOT1Qj4%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "Georgetown",
+        "name": "Huckin' Foyas",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=4LXFacoWVHMn0TMfzZQtKVOr2EWjrSHWkl11b2jm%2bX8%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "Georgetown-B",
+        "name": "Georgetown B- Biddin' Foyas",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=ErsicdGlLoszHBk8QD%2bOS1oeMLn1YUsVCGHilb2RZH8%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "Georgia",
+        "name": "Athena",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=hWGIWJhhZ9YiQ9XDk6ivKph2GL0n3bQvoxKLgqhiNis%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "Georgia College",
+        "name": "Lynx rufus",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=ZofTycb6m7cRuFYZhVwRT7EF8VcyQWBTBce%2bw8Y8IqM%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "Georgia Southern",
+        "name": "Georgia Southern Sirens",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=pm%2bscIKKzJytbMCyZoKMaggxi9Hozgw7R88n7fQnBII%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "Georgia Tech",
+        "name": "Wreck",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=otrgxFNmMmTEciYB%2fa6e5tA601MjHPNNCWvy7HonscE%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "Georgia Tech-B",
+        "name": "Wreck B",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=dLOungwTi1fPUb7mGa4HGF59u%2fZAnqENNjqLEyoO10I%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "Georgia-B",
+        "name": "Medusa",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=T%2b8FdtXYtHmAQz1hQB%2fRTl1sKk6wLMA3WD07oddCROA%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "Grand Canyon",
+        "name": "FalLopes",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=pO8CF6wqliQ1DPv2jRP2gU9RwivB7Fl0bDxSbYF8FQE%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "Grand Valley",
+        "name": "Lakers",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=Cp%2fES86rvGSsVFASeLoWvIN%2brlr%2fEF5%2bfA6KnRAtYUY%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "Grinnell",
+        "name": "Grinneleanor Roosevelts",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=sfYabdlBYU0BLKuCAbWb8KGw1sui7W%2fpj788giu8K4g%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "Grove City",
+        "name": "Doomsday",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=PsEwunwFrNS58KQjxEmkyDfYjI6GmhG99qcj3zo43%2fI%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "Hamilton",
+        "name": "Hot Saucers",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=BUbEib92QvuUxIt%2beNIXnt6c6cwpl5tzx4YUPl1gZ8g%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "Harding",
+        "name": "Sky Bisons",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=MLYZuqLIDkjDft6zGMl7E5EeaYbxMJrO1ieXWspaI%2bk%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "Hartford",
+        "name": "Hartford Biddies",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=U7DRzlKALrm4qX13kywBT%2b218xN1yfVw5WG8qLwlVbw%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "Harvard",
+        "name": "Quasar",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=M4rTiEj%2fH2no6QXsA8cbTLr7bU6ucBvt%2b%2fmpVL6u2aA%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "Haverford/Bryn Mawr",
+        "name": "Sneetches",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=HIQ08mWQB03ozy55wVbyDpIEmiLqPNkkqbzKoyVtWVU%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "Houston",
+        "name": "Metropolis ",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=JikNEn2T8lC6ANkNPSAKRTz8xwDDGQtX%2bVex2x8WJWg%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "Idaho",
+        "name": "Idaho Gems",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=os0aPLvvCdPY166iDHEdo1l1ulAW85OIzIm7R3I%2bTwI%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "Illinois",
+        "name": "Menace",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=wIlRWo89lmK8wcFB1mm5eW6ETvfcndcgy1bdLdTDXaA%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "Indiana",
+        "name": "Calamity Jane",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=1clj0ZoERnHfqwVy1xmKyyfSsnNeKTT%2f87YsS0PhYmA%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "Iowa",
+        "name": "Saucy Nancy",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=UKpVaxWAjKvqIrm1r%2bD09Xs91nOInsFdyXAGLTgleBo%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "Iowa State",
+        "name": "Woman Scorned",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=RQ98eGm5hJNsngE5PyYlObe97n4SjdxQA%2f4q6heAwzo%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "Ithaca",
+        "name": "Kweezy Ultimate",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=PH7TByOtO9YMPtGQGbJOT6whbd%2bK9YPH7wwkwdjrpBQ%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "Jacksonville State",
+        "name": "Fuego",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=2idMbQToscyhQT%2fGj7JFSLg8S1CPclrXAg4Skmbh1MI%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "James Madison",
+        "name": "Bitchmonkeys",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=wqE7riAokIAwZtr5Qt3j5brJK7b4Nniw9V5PZVWB68A%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "John Brown",
+        "name": "Skyfall",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=QL%2bG6QgllZWGjN2yI%2frzc2hNjig6Miu8TsEJ1RYVVzQ%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "Johns Hopkins",
+        "name": "Blue-Footed Boobies ",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=E4ZJzCPNjIKSH9kQ2PHxFlUvMQBLXL0JM6ZiCrwJeu8%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "Kalamazoo",
+        "name": "Queen Beez",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=Jf%2b%2bTS2MgF6Ukcmbph7qlBVwgt5EnY9FGztmvW8lTOw%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "Kansas",
+        "name": "Betty Ultimate",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=PPQkReDaRMdT6VfqSO6iDI3RaMoqnN7Ng2kCVhLrodw%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "Kentucky",
+        "name": "Monarchy",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=vqQY7SZjfnqih80XcCAOPyIwRmTD0c3hGs%2fnWCb2y%2bo%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "Kenyon",
+        "name": "Blu-Ray",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=EsmA%2fR7eB3fkAdoM%2fS1rKzJ%2fcy3GT3nvy5hISKSKnL0%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "Knox",
+        "name": "Alley Cats",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=xe2du30hy%2f2aGQiGftjNOWHV%2f6hnWTUNKWj9rsVHYHw%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "Lehigh",
+        "name": "Gravity",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=dEUaCRuPoJfG1%2bsjBnVFf3%2fCWdlJeW55loqrSD56X%2fY%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "Lewis & Clark",
+        "name": "Artemis",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=Srd7o%2fQ37nCHl3UWJxViA%2bRHcFA4MnNQYfSFrEwn2CI%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "Lewis & Clark -B",
+        "name": "Artemis B",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=rihbD0VZZeExDZ77EWYuaRr13WLRkXYpC3MgRd4iR4Q%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "Liberty",
+        "name": "Liberty Flames",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=eMV7sdZeGaZoONLYNwsDCZoB2acxWv80EHV0uHEOSac%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "Loyola-Chicago",
+        "name": "Sirens",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=ZHurEzw0Yg4DbuNtLUvjphALrHF%2bZgsKrmZ0HoCIiwc%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "LSU",
+        "name": "LSU Women's Ultimate",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=IzCOyQ0WDV5UX6uOaSmzW2E0tSimP2gbVZXEw2%2fBozQ%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "Macalester",
+        "name": "Pursesnatchers ",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=egKAASQp6Nz0RRRpJ8A6ggnD%2bcbptRpvZ%2fCPvMRv2lA%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "Maine",
+        "name": "Koi Named Sue",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=Py3iTyxIpAyg2jp%2bzR7REHjGLM9R2TssOqZZAQRaf2M%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "Marquette",
+        "name": "Moxie",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=LxRuPG%2f9OOgZUTByCGuKypRXpSAF%2fGxraBoJv%2b0ON08%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "Mary Washington",
+        "name": "Mary Massacre",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=bXVnYy6Xq3GtgpS126AXPPoqIBXWiqVM%2fmnR8jS2%2b7o%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "Maryland",
+        "name": "Helpful Corn",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=ClNS0nfAWhh0YmOki1P746owmLi0o50zu83qPAfey84%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "Maryland-B",
+        "name": "Butter Cob",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=9AZzp27oigAfCEepF19%2bl6PqStu4n3J5PoaV4fimXvg%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "Maryland-Baltimore County",
+        "name": "Shazam",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=uPNHtwuX6KTkbHCsRQxXt9wQ7M8eSzJ4mVHN%2bqyUCkI%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "Massachusetts",
+        "name": "Zoola A",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=4UrYPGeZo1rV7xsVJ0p8M7hF%2fH%2bkHa8JidTfOkn7mW8%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "McGill",
+        "name": "MUT",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=VlB8XbVtRA9rR%2ba9FWXgQRTIYjj%2bsj7mzHqndMNsSzg%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "Messiah",
+        "name": "Messiah Falcons",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=otWkEkPxZiVair2YFRn76HcRIxfe0q1ktUqrAlrgGAg%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "Miami (Florida)",
+        "name": "Southern Tropical Depressions",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=Qbt7jn7LRbgRfhRz1AZm6hMajv9Z1dXUlCKjh2GeV6A%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "Miami (Ohio)",
+        "name": "FrisBaes",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=r7GGjGxQ0UjMQTzColybgZ0piZiW87EkywiKDNTI5F4%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "Michigan",
+        "name": "Flywheel",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=Qn73W5%2fNnVryPkr1ZMLcztVixAvBcBabb9YiO2l0dJ0%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "Michigan State",
+        "name": "Moose",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=E5FYD3Et9N08W%2bgpxmw0MSSsbjFwJATJCVm5WpmTklQ%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "Michigan Tech",
+        "name": "Superior Ma's",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=1LG4hldqEgHXDJ%2bfWt5Zc1cMI%2f8AjMVF0L41bbc1udw%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "Michigan-B",
+        "name": "Michigan B",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=Lv%2fXiopEuLsXuDMbMTUDjGV1wVSuTUyZxczrg22fRhI%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "Middlebury",
+        "name": "Middlebury Pranksters",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=dY6mxI15zsLf8XYllohYe2jBuO5V5FFqj4FvkAmgLxc%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "Middlebury-B",
+        "name": "Middlebury Branksters ",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=SXxxACbFlWUYotuvbdK9ErnvFYwpc%2fHL%2fZOR222zrY8%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "Minnesota",
+        "name": "Minnesota A",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=5LBDAX6MgDE5JdnWKNZhkHk5aLvrt1nDzsdRpc7%2bqEk%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "Minnesota-B",
+        "name": "Minnesota B",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=UN%2fo%2bieTn7M0%2bnB4UXBwWqcHgugW4uArG%2f01tcTxmic%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "Minnesota-Duluth ",
+        "name": "LakEffect",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=4oyI6kAnyIuXPtztJnuygsm57lhPJc9j9UWqyU03EP8%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "Mississippi State",
+        "name": "Night Mare",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=QJtx8Q%2beaQ6hfkaLzrNTZ6azBfWcdRTx5Kd7T71a544%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "Missouri",
+        "name": "Terror Mizzou",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=SJVQ4GYyMA1PGz6irGDCbezYHW2tHA59ZByw7OtSNpo%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "Missouri State",
+        "name": "Bearly Lethal",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=MLxGQagtBfM3HWj1sYFH9n42dAl6O9nFnGyww%2fyp818%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "MIT",
+        "name": "sMITe",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=5wIU1AdI219D9y5LjECfy48VYT9fi57ye%2fEuagk2bfA%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "MIT-B",
+        "name": "Byte",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=aYUWqoVAQJTVPZLXiA7UgxRLBXxVPs%2fELuP5QBmjHIM%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "Montana",
+        "name": "MT PillowFight",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=B2LG48UPVgMzRTij3ziyt52PXCL6icd1eNkio3K4yOM%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "Montana State",
+        "name": "Cold Smoke",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=7IUXVibSE7w%2fG3A3lsacLKCnospjZH3Tv3bn9YCNpGM%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "Mount Holyoke",
+        "name": "Daisy Chain",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=jre362LWT9%2fzeEQMkPUCyTqMLkPsdeVxqQNzj7BNpXU%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "Nevada-Reno",
+        "name": "Black Ice",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=YosgVufFV3sBYfWhVZW2ea3ea8zalXk0hTgslrwfYBE%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "New Hampshire",
+        "name": "Oriza Women's Ultimate",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=N6tqXoIebgsNNyjaasxXTGfyw0QDHqA1XlJWZXzX9t4%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "North Carolina",
+        "name": "Pleiades",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=1dy24DQCYFODuPd6ovRtPWEl5pB4kbjdtE0AbGBgCJo%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "North Carolina State",
+        "name": "Jaga Monsta",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=bYXrCA6tkm9EawC7bKS2rOh%2b6IuT9y%2fpbebkBJh2RLw%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "North Carolina-B",
+        "name": "Electra",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=EKHYN3YKYTWs9Oa6pZf6S7ewAtYijWcqAHcUotF7wY4%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "North Carolina-Wilmington",
+        "name": "Seaweed",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=pXLiG%2bVDPcj%2fvOWtm2epL%2fzP4XvJC6PT2jkGA8ZEJkU%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "North Park",
+        "name": "Allihopa",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=rifSj38jAOqkOlS2Kj%2fDzOA0umjnlyYLZcrE5IglW%2f8%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "North Texas",
+        "name": "Envy",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=P6Nnoz575XvpY6bYizAZjOpuN%2bhyGspeKiHMAPAqShI%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "Northeastern",
+        "name": "Valkyries A",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=mESOrBlILEXditIoda09NvQNRac10oQnbAt9jaGM%2bTQ%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "Northeastern-B",
+        "name": "Valkyries",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=upwOUwMEVEIc9Diz3AZixk0NHsy%2fnHOIRaZ%2fAZ23ruY%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "Northern Arizona",
+        "name": "Jines in the Pines",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=ZE8XTETPmv9Q3I%2b2mYSVnKAEPnAf2FWjbI9qvumThGc%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "Northern Michigan ",
+        "name": "Aurora Ultimate",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=X1gkcqAxJndklevOujoqbQIfaijExxcWfjYEqiFI9ws%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "Northwestern",
+        "name": "Claw",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=6BWa6X54QwLX%2b8WQAsGubOn4oFBQ3lrJPIDbWF5r6AA%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "Northwestern-B",
+        "name": "Blaw",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=8qI7wg8cGnePFT1uRDoDjn7QXK2bPmLRsw4KYXGwGGQ%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "Notre Dame",
+        "name": "Echo",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=ngop1kzOeE7W3yIg%2bG4iQi0TBwUjQ1r%2fKo%2fAUTdDNmk%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "Notre Dame-B",
+        "name": "Thunder",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=5lYjSZJqRrBKVH3XYWP1enl9%2fUp%2f7vYKxbdXNErXOow%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "NYU",
+        "name": "NYU Purple Reign",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=ZNpQfDWjLXh1jMBeTM3%2fQaPNXkqFbm6%2bSn8Y0Upyi3Y%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "Oberlin ",
+        "name": "Preying Manti A",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=8r2P7%2f4%2bwxnFn4cKNgUDXftkPgBxPzfQ0s3s%2bvtluG8%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "Occidental",
+        "name": "WAC",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=AYD45ctaHt87ArCM1GOzqBgiuAuqMmOPGCMGEec2dn8%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "Ohio",
+        "name": "Stacked Cats",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=6JF0xGqZWSIfJRC3z%2bOv%2bQCiOB94H9QOieNcXIcHmr4%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "Ohio State",
+        "name": "Fever",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=H%2blygDy4wJsboLqoQuZWzr4PzjAWJ%2bBJP0tmUlM7RUE%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "Oregon",
+        "name": "Fugue",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=0Dpsp7mtSirjC%2bKyOkVsfsjahQEBg1tK7N4GkRn%2fgds%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "Oregon State",
+        "name": "Dinos",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=h8KZW0c6upDnbGFyPw70HbgBYfKGMBOMeVRWSDUHxWU%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "Ottawa",
+        "name": "GeeGees",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=31B%2b%2bfx0a%2f%2bczc6AwXlJnCK%2bVnrNJ9qOPjAoQoJHHdE%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "Pacific Lutheran",
+        "name": "Reign Women",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=8dyGAw1oV62W%2f%2faTrhlZqDhJWX%2f4pr0Kyi5t%2bFh0zak%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "Penn State ",
+        "name": "Crisis",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=E3sAKqRO4YPdbZJTBDlV0Iq%2bixXBTTxTrCKmjiO3faQ%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "Pennsylvania",
+        "name": "Venus",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=kO1REKv2KWAQ9x6L5mq4MmpGG%2b5klD5yPDpKnUBTojs%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "Pennsylvania-B",
+        "name": "Venus",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=f%2bwpxK234fpobCbBCecy3nOvp%2fbts9OaA5HnOyKNetY%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "Pittsburgh",
+        "name": "Danger",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=1makinBjP7Ew0y1sV%2fVjpyMYvojK19QCwrH57VZ87y0%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "Portland",
+        "name": "UPRoar",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=WcU63FNtBP6DPXDjnuThjcyyyTnjmQ%2beuykodqa9saE%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "Puget Sound",
+        "name": "Clearcut",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=t6QyyvpVGZ3Z8M6ELzPrcyiXPrTx%2b%2bHjHCLIqfGk1Bw%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "Purdue",
+        "name": "Xpress",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=xTxaf9JW6bwKE7CFzCPRkP%2b8gbl%2fCrYq78wFFr%2biZbs%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "Purdue-B",
+        "name": "Smokestack",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=uetytlVeKzr6DPrqSnyw1S5qDi88heUdNbrTAsFXXKc%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "Rensselaer Polytech",
+        "name": "Strut",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=WXMIQ0N4tPSuDYxAzWw0VaKXkjWdlrd4xXISwdA57Fk%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "Rhode Island",
+        "name": "Disky Business",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=91g8XNj%2f5qAj2kwEjcEuXx8rHJzz37pHADedaVBXRdk%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "Rice",
+        "name": "Torque",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=GWJj7jHTicTa24FjZY%2fjba1ryL1TCdNvauB3Z7BDf%2fU%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "Richmond",
+        "name": "Richmond Redhots",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=tPAb%2feTuX0GEEqvCCft7BQ5g%2fH8OSFyf5zqY4aKrycQ%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "RIT",
+        "name": "Yams",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=wLYJd5S5mfOFq3DGLntILYbDVC5fRxZ%2fQt%2fyu516Yn8%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "Rochester",
+        "name": "EZ Women",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=qt4Rx4hRldGW6SC%2fUBESNVeEIJ1ezbryv6eaMMjPLCQ%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "Rowan",
+        "name": "RUF Rosies",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=twgDEj%2fBC2Av99KrMiopE3MOE%2f0ii%2bKM%2bYSVSy2E3ss%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "Rutgers",
+        "name": "Rutgers Nightshade",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=Z3U2mj%2fE2y0rbbUQddp8Aa89H5QxE%2br%2fweDzALjd62Q%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "Saint Louis",
+        "name": "Anarchy",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=0rqvP92Tq6%2b9wLmiO9IVCIP1YKEv73xkV1jGbxkAR5E%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "Sam Houston",
+        "name": "Sam Houston",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=TMCr%2fOyLHiT8VrplqsWTjqKoCWXkQ3TY2XrvRPOsdik%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "San Diego State",
+        "name": "SDSU Gnomes",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=XsdECTiRrruMomt61n7TEJMk%2f0rGit9m9pjxV53275o%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "Santa Clara",
+        "name": "Santa Clara RAGE",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=ccdBYaLC%2biJG0Q2kdzF2LfB1YNt5%2faKwiUYlsh5qqZE%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "Scranton",
+        "name": "Electric City Scranton Ultimate",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=ClZiQwwL5HJl7r6gP0po%2bxNe%2f4gbOkAbSn3O22XF1VI%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "Seattle",
+        "name": "Throbots",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=rJooChtOqYJYFHpItPxk4XJmh31f%2binsjRbs0jMMpko%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "Shippensburg",
+        "name": "Bellewethers",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=GoDizE7ejQ4s%2bmxUNvHZEpFdRZ%2bQN4tcLncqo6Wq0Og%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "Skidmore",
+        "name": "Skidmore College Thoroughbears ",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=PcFAyuRFsi5kHbqnIVlvx44ngdYsfA7CtThlZqsEpiA%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "Smith",
+        "name": "Luna Disc ",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=kswJXpJ4UdibfOWD5rGUCzEEeJ57LqJOSByrvWAW90E%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "South Carolina",
+        "name": "Scorch Ultimate",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=0viocdFr0EgnUyvpi1zFUpdUuDsVU566K6UvB92CQag%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "South Carolina-B",
+        "name": "Pyro",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=yJ9wlTby2PpmRtVmaN9BLOspdCNa9%2bZe5CVYmndgTDg%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "South Florida",
+        "name": "Scallywenches",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=vZfRlLZ2QYiBfCp2bIrwGtIMUtEE93D9kNgLcGFSuRU%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "Southern California",
+        "name": "Hellions of Troy",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=LeTXunN3DE6LK4fEbjur4MD1nynSdMnYVC%2f4hnizFuM%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "Southern California-B",
+        "name": "Kleos",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=ak5NM1zikHf2lOTl%2f4eBWO9xKuz0Sx2pBwVYlbG6KUQ%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "St Olaf",
+        "name": "Vortex",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=XocFuYEOAnjuIdC0SQ9zYZ8QMZN6yqBrtpFsMhXJPZI%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "St Olaf-B",
+        "name": "Tempest",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=hgdbVmB8CH4kYwG%2fKTeIxAIIYXtTN7WJFUgqlXH8Fv8%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "St Thomas",
+        "name": "Lavender Haze",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=BiV2YedRJdbNAPJXoN4EUQwkccc%2ffddzH7MQFWZMBo8%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "Stanford (Stanford",
+        "name": "Superfly)",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=cYxjj2awP5e%2be%2bbzSnJtJOZxCRh6uYdtv6N1WcoOAQg%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "Stanford-B",
+        "name": "Firefly",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=Y%2f7x8IlINYo5fyMAVt7R5ycwPu4kkMu%2f6NU9YYbd%2bc0%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "Stonehill",
+        "name": "Stonehill College Women's Ultimate",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=JResWRFWiv8ZVl8%2brK2pyVh%2fsDv2XcVioq80Z7V89KU%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "SUNY-Binghamton ",
+        "name": "Big Bear ",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=St1rUSGOS3WV%2fk3MWENKElE8PspSnCSIvABex2VI40M%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "SUNY-Buffalo",
+        "name": "the Lorax",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=NLtOx7qK%2fmY77P3MxPLa9c5Njm1fYRgE00XrdlvEJhc%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "SUNY-Cortland",
+        "name": "Mystery Inc",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=LpkzeBDwr8LYwtq62BrWiqPNOStVyZT%2bjs5dSQQErFw%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "SUNY-Geneseo ",
+        "name": "Escargot",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=xvS85QCnay0%2bijV12Bcrpu6BB2rixdXngB09SVsk4oo%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "SUNY-Stony Brook",
+        "name": "Smash",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=%2bGulFocggkPb624Qz1NDtscbiD0MOh8f%2bwoiNEgW7u8%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "Swarthmore",
+        "name": "Warmothers",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=oL1hKuwIqf5S8olu%2f2TSrMudUsBy4Oa9BEiW5MJDPvM%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "Syracuse",
+        "name": "Fox Force Seven",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=6H0Y7onpLyxfN6cedYiMTC%2b5lUzmTsQtxyfYF9ydV3c%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "Temple ",
+        "name": "TUF",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=Rs1R18dnYkWpA%2fME17k1lF1xuwYlOSt30PkWaU9P%2fPM%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "Tennessee",
+        "name": "Big Orange Screw",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=kt99ysLiBLeX3vqwMBXyYBMBzwhtHWODfc%2bgDeRSOYs%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "Tennessee-Chattanooga",
+        "name": "Moxie",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=CwheKBKR3N%2f3NP83d%2fK6%2fn15ba%2ftOGKKM13a0hn2PTE%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "Texas",
+        "name": "Melee",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=vQKQh1JpYuAPrnUBKlpSP%2bWDJKCrgNbKC7%2buV4n2vK8%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "Texas A&M",
+        "name": "Stacked",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=bX8iXUk9xsYRDbHEXKR3lmeVMt7V9Fkb%2fzFgHL9mUMM%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "Texas State",
+        "name": "Trainwreck",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=IeX79i2csyXQdcmMS4aMjs0UL8XLWh69QEjKJkMGDjk%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "Texas-B",
+        "name": "Mayhem",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=VKjcjBqvtV65lg08EgVXGQpcDrFgsH2RTKrSgTZBzzo%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "Texas-Dallas",
+        "name": "Whiplash",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=gk0wc08dhZrPuf%2fj4j%2flaJcibQyojSmZoJEnvXeSiic%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "Texas-San Antonio",
+        "name": "Legion",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=dmVmqNAoIrvVPIVQsimNAtwMQt7y5jk0rMMDx57yBfo%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "Towson",
+        "name": "Hammertime",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=1IAaq6IhHbYPSeL10wTYg0Cf0MHesZuPm2HnABBzy3o%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "Trinity",
+        "name": "Altitude",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=eFuycN3e7bkrtiQjLOWM%2brLov3KLdDGB%2fxszCcsN7gE%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "Truman State",
+        "name": "TSUnami Women's Ultimate",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=uBfLqA8%2biCnoePw24VzyOuBjqQNPbcQz9D4B3KWHmjQ%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "Tufts",
+        "name": "EWO",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=QX5lg%2fg%2b9PN3o6%2bjUYNHI1C8QC5cmJHySo4PIL%2fXOck%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "Tufts-B",
+        "name": "BWO Keggs ",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=HE6jipaMT4kCOFxq3jrX5zrJF6wPNhgBEFATnm3Nsag%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "Tulane",
+        "name": "Muses",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=0E4MT9RYLnnO08iY%2bavPEAhJ69tIH2rNM%2fmNDpSNVWM%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "UCLA",
+        "name": "BLU",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=q524pflH8%2boRQ2L6Feh0QS79YEgNM8UPsYKvP4gWShg%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "UCLA-B",
+        "name": "UCLA Midas",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=t0xi4OPxRbgnctak7pMxJOjYfskWHRS1KdBQGkBOziU%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "Union (Tennessee)",
+        "name": "Jillz",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=bqzik2ak0iawlt%2bFZFYnhoChOjltsttwGdKp5ebYoNs%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "Utah",
+        "name": "Spiral Jetty Ultimate",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=U3rhiE7hJ9Q%2fRJzTFO14FB424bdURLc4Aat4qYecdk4%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "Utah State",
+        "name": "Utah State",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=CorQyADjCsDA3U6JGHvG9c5a4EoBJ9eNYuNwUngHBgQ%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "Utah-B",
+        "name": "Huckleberries",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=h4PDRzUKBklJ6MW9ctK9V81XV%2bjUvIohbJ8uRbKsz1Q%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "Vanderbilt",
+        "name": "Surge",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=isbVJls%2bqhd8xGqPnUr3M85zm%2bV4MnSNEt6LXm7qYfA%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "Vassar",
+        "name": "Boxing Nuns",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=eXUSv%2bc0LEcgNhc8TP7ovlTKplFrE4ibczooiypN35w%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "Vermont ",
+        "name": "Ruckus",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=PQG9mLlRSJm%2bP%2b3ftJBWyao2IzMwnIf7hsRbXVfywuQ%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "Vermont-B",
+        "name": "Vermont B",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=tDzieXZHqNuUMn%2bWygb3lga1DoIBqMMVcNlFAklZZwI%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "Vermont-C",
+        "name": "UVM C",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=PMRi7AzX%2b88Uoztk4ONK%2bVkFdVPlNcJxkTblwn7hHt0%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "Victoria",
+        "name": "Vikes",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=0JWtJXNcsY35nfVM93GninqY4hJUukUf35UHI0z3f6M%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "Virginia",
+        "name": "Hydra",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=wmdT3gUW1qLLXvHiiQaZk8vKfF27BAD4P4SNMRmxlJQ%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "Virginia Commonwealth",
+        "name": "VCU Vendetta Ultimate",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=M91vTQbD0P3G299O1EEf32s250eX1PQEXkxd9FoB6Hk%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "Virginia Tech",
+        "name": "Burnettes",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=mG0IQy1K53tGx%2fECBDwnsFFyHnQtR0lIpFQDseLTQ6g%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "Virginia-B",
+        "name": "Virginia",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=Lr%2bUT5sj6WSJUEkFf%2fZ1DyZeOt%2f%2bSQqQ31Em1PzntmA%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "Wake Forest",
+        "name": "Ruckus",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=z%2bRvTcfTnhN7HXHnc6S3H2fEjPXtrdlJbvA8EExf9OM%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "Washington",
+        "name": "Element",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=gCBh2O7qjDw3ImdjjCv2%2b7F71g%2fgAu2fUBMHBO0ggdA%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "Washington University",
+        "name": "Iron Horse",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=aE3l8%2fLWwdsHMzQRykxHr9EwisJYbgLMW1rKZLsQzhA%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "Washington University-B (Washington University",
+        "name": "Locamotive)",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=h0bC6RQ6L9b%2f6derE%2fL8OlkCua20jLbu4ivYKneLXK8%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "Washington-B",
+        "name": "Big Bang",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=Gc1%2bJx2i%2bwrytGqoZSTbtAv4fHLwbG2rwndf3sYBYtY%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "Wellesley",
+        "name": "Whiptails",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=3%2foxOAermlNLBBSk3K5gIje%2fdmG6Kwp3fKBNNncdVl0%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "Wellesley-B",
+        "name": "Tails",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=xy0mZenw6J8fLEpjexSVaHdX6IpPLowufIFlw7qzp28%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "Wesleyan",
+        "name": "Vicious Circles",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=mmnVNZgTLVqeiiz191lIszWzUm7r7JvtioFi0KOlL0U%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "West Chester",
+        "name": "West Chester",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=k1gEZO4jFRKjisnFaKfnub6toRNj9OUL1taexuaNQaU%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "Western Washington",
+        "name": "Chaos",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=jldoyRDC5JBtjrTsygL%2bqYJRd5%2f4PPomr%2fTrCuQ00Y4%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "Wheaton (Illinois)",
+        "name": "WestWind",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=ag9dHPpAFzXYMwxFi0E57Uf7aszRiaScsW5oFIHcMXA%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "Whitman",
+        "name": "Whitman Sweets",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=VBgBH%2f%2bdgR7WpQnGbg39aN73qEp5jJv%2f%2f40MycPjkjI%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "Willamette",
+        "name": "Hysteria",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=nJICkdtR3B9DTwzT6rA4PIqMoL8%2bXAHja0ZcpQBCvw0%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "William & Mary",
+        "name": "Cypress",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=24o2OQr%2fmyUSSBtdogG1cvqT%2fyMHOi1zm3ZQR5fNlmI%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "William & Mary-B",
+        "name": "Woolly Mammoths",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=rbMfp4FYHIqS7bYqUI%2fkiqtEJgPsN1syKFCPu1ekOCs%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "Williams",
+        "name": "Nova",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=1IxQ451efj0FpNat9Jo6WUnSqDYnfFqaMq8k8SafyWM%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "Winona State",
+        "name": "Bad Monaz",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=%2fn1wXD9xPrJ%2bnPNPO6H0jVJwQeGI7RKCeFrjYhkf9J0%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "Wisconsin",
+        "name": "Bella Donna",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=YkJ0Vb01ffZUYuAeMnhy1KgsThw0i0kTZl0U2TqoMFs%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "Wisconsin-B",
+        "name": "Atropa",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=8xpU2uGYEZMiISz6uYTsXyw%2fax2Hs3H6XosagshE0nI%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "Wisconsin-Eau Claire",
+        "name": "SOL",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=E2yNe6YX9YUBub8q0YJPckvfSNQrd7ycNc7oe062hpE%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "Wisconsin-La Crosse",
+        "name": "Galaxy",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=9tF4DIeJY%2b7pLUk5Mlh1jgWehYo2nTkzEA0HWsW2jLo%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "Wisconsin-Milwaukee",
+        "name": "BlackCat ",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=rZdtTx1oIrbM3y5LIrHTSnPMjbu2YCouyN8sealrTIQ%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "Wisconsin-Stevens Point",
+        "name": "Shockwave",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=5bLQJf5EqIR6hKayBRQoIkUGJM4xfUZDA35LDdiwrDE%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "Xavier",
+        "name": "Ignition",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=hQm5dFEykiOHmqS34XlYT%2fwwzKdOho%2bUfgo867ycZO8%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "Yale",
+        "name": "Ramona",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=5mcVhpBF9EvE2FiBdgrXyThVhHm131%2buCf6WKdcVzMc%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "Wisconsin-La Crosse",
+        "name": "Galaxy",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=9tF4DIeJY%2b7pLUk5Mlh1jgWehYo2nTkzEA0HWsW2jLo%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "Wisconsin-Milwaukee",
+        "name": "BlackCat ",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=rZdtTx1oIrbM3y5LIrHTSnPMjbu2YCouyN8sealrTIQ%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "Wisconsin-Stevens Point",
+        "name": "Shockwave",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=5bLQJf5EqIR6hKayBRQoIkUGJM4xfUZDA35LDdiwrDE%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "Xavier",
+        "name": "Ignition",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=hQm5dFEykiOHmqS34XlYT%2fwwzKdOho%2bUfgo867ycZO8%3d",
+        "rating": 1000,
+        "games": []
+    },
+    {
+        "college": "Yale",
+        "name": "Ramona",
+        "gender": "womens",
+        "division": "college",
+        "url": "/teams/events/Eventteam/?TeamId=5mcVhpBF9EvE2FiBdgrXyThVhHm131%2buCf6WKdcVzMc%3d",
+        "rating": 1000,
+        "games": []
+    }
+]

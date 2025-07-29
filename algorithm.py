@@ -26,6 +26,15 @@ def run_algo_for_all_weeks(n, in_file, out_file_base, season_start, season_end):
         week_counter += 1
         run_n_algorithm_iterations(n, in_file, f"{out_file_base}_wk{week_counter}.json", season_start, date_runner)
 
+def populate_all_data():
+    #run_algo_for_all_weeks(2000, "data/college_mens_unranked.json", "data/college_mens_ranked", COLLEGE_SEASON_START, COLLEGE_SEASON_END_POST_NATTIES)
+    #run_algo_for_all_weeks(2000, "data/college_womens_unranked.json", "data/college_womens_ranked", COLLEGE_SEASON_START, COLLEGE_SEASON_END_POST_NATTIES)
+    run_algo_for_all_weeks(2000, "data/club_womens_unranked.json", "data/club_womens_ranked", CLUB_SEASON_START, TODAY)
+    run_algo_for_all_weeks(2000, "data/club_mens_unranked.json", "data/club_mens_ranked", CLUB_SEASON_START, TODAY)
+    run_algo_for_all_weeks(2000, "data/club_mixed_unranked.json", "data/club_mixed_ranked", CLUB_SEASON_START, TODAY)
+
+
+
 
 """
 # TODO:

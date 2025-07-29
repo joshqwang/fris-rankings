@@ -14,21 +14,22 @@ class Game:
         self.weight = 1
     def to_dict(self):
         return {
-            "team_a": self.team_a.college,
+            "team_a": self.team_a.college if self.team_a.college != "" else self.team_a.name,
             "a_score": self.a_score,
-            "team_b": self.team_b.college,
+            "team_b": self.team_b.college if self.team_b.college != "" else self.team_b.name,
             "b_score": self.b_score,
             "date": self.date.isoformat(),
             "url" : self.url
         }
     @classmethod
     def from_dict(cls, data, team_dict):
+        # team_dict must have college keys if division is college, else must be name dict
         team_a = team_dict[data["team_a"]]
         team_b = team_dict[data["team_b"]]
         date = datetime.date.fromisoformat(data['date'])
         return cls(team_a, data["a_score"], team_b, data["b_score"], date, data["url"])
     def __str__(self):
-        return f"{self.team_a.college} ({self.a_score}) vs {self.team_b.college} ({self.b_score})"
+        return f"{self.team_a.name} ({self.a_score}) vs {self.team_b.name} ({self.b_score})"
     def calculate_rating(self):
         r = self.get_losing_score()/(self.get_winning_score() - 1)
         return (125 + 475 * (math.sin(min(1, (1-r)/.5) * 0.4 * math.pi))
@@ -69,8 +70,10 @@ class Game:
 
 
 class Team:
-    def __init__(self, college, name, gender, url):
+    def __init__(self, name, gender, division, url,college="", location=""):
         self.college = college
+        self.location = location
+        self.division = division
         self.name = name
         self.gender = gender
         self.url = url
@@ -78,22 +81,37 @@ class Team:
         self.games = []
     def __str__(self):
         newline = '\n'
-        return (f"{self.college} ({self.name})\n" \
-                f"{self.gender}'s division\n" \
+        return (f"{self.college}{self.location} ({self.name})\n" \
+                f"{self.division} {self.gender}'s\n" \
                 f"URL - {self.url}\n" \
                 f"Games - {[(game.__str__() + newline) for game in self.games]}")
     def to_dict(self):
-        return {
-            "college": self.college,
-            "name": self.name,
-            "gender": self.gender,
-            "url": self.url,
-            "rating": self.rating,
-            "games": [game.to_dict() for game in self.games]
-        }
+        if self.division.lower() == "college":
+            return {
+                "college": self.college,
+                "name": self.name,
+                "gender": self.gender,
+                "division": "college",
+                "url": self.url,
+                "rating": self.rating,
+                "games": [game.to_dict() for game in self.games]
+            }
+        elif self.division.lower() == "club":
+            return {
+                "location": self.location,
+                "name": self.name,
+                "gender": self.gender,
+                "division": "club",
+                "url": self.url,
+                "rating": self.rating,
+                "games": [game.to_dict() for game in self.games]   
+            }
     @classmethod
     def from_dict(cls, data):
-        team = Team(data["college"], data["name"], data["gender"], data["url"])
+        if data["division"] == "college":
+            team = Team(data["name"], data["gender"], data["division"], data["url"], college=data["college"])
+        elif data["division"] == "club":
+            team = Team(data["name"], data["gender"], data["division"], data["url"], location=data["location"])        
         team.rating = data["rating"]
         # defer loading games until all teams are created
         team._raw_games = data["games"]  # temporary holder
